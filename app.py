@@ -4,6 +4,7 @@ import os
 import pandas as pd
 import numpy as np
 import joblib 
+from NigeriaMLflow import logger
 
 ROOT_DIR = os.getcwd()
 SAVED_DIR_PATH = "artifacts"
@@ -13,10 +14,10 @@ TRANSFORMER_FILE_NAME="transformer.joblib"
 # TARGET_ENCODER_FILE_DIR="target_encoder"
 # TARGET_ENCODER_FILE_NAME="target_encoder.pkl"
 
-MODEL_DIR = os.path.join(ROOT_DIR,SAVED_DIR_PATH,SAVED_MODEL_FOLDER,MODEL_FILE_NAME)
+MODEL_DIR = os.path.join(MODEL_FILE_NAME)
 # print("MODEL_PATH:-",MODEL_DIR)
 
-TRANSFORMER_DIR= os.path.join(ROOT_DIR,SAVED_DIR_PATH,SAVED_MODEL_FOLDER,TRANSFORMER_FILE_NAME)
+TRANSFORMER_DIR= os.path.join(TRANSFORMER_FILE_NAME)
 # print("TRANSFORMER_PATH:-",TRANSFORMER_DIR)
 
 # TARGET_ENCODER_DIR= os.path.join(ROOT_DIR, SAVED_DIR_PATH,SAVED_ZERO_FILE,TARGET_ENCODER_FILE_DIR,TARGET_ENCODER_FILE_NAME)
@@ -32,8 +33,8 @@ transfomer=joblib.load(open(TRANSFORMER_DIR,"rb"))
 
 # About page
 def about_page():
-    st.title('Predicting the Financial Burden of Lung Cancer')
-    st.write('The project aims to develop a predictive model that estimates the annual out-of-pocket costs for patients diagnosed with Stage 3&4 lung cancer. By considering factors such as age, comorbidities, and primary insurance, the model will enable patients to proactively plan for future financial burdens associated with their diagnosis. The ultimate goal is to alleviate the financial stress and reduce the likelihood of personal bankruptcy that over 40% of cancer patients experience within four years of diagnosis.')
+    st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
+    st.write('The problem this project is targeted to solve is to help the security agencies to mitigate the rate of crime committed in the country by giving the security agencies reasonable insight into the distribution of crime committed in Nigeria, and also enable them to anticipate possible crime and location of the crime, in order to be able to make adequate security checks and take the necessary security measures.')
     
 def visualization_page():...
 
@@ -41,38 +42,20 @@ def visualization_page():...
 # Main prediction page
 def prediction_page():
     # Title and input fields
-    st.title('Predicting the Financial Burden of Lung Cancer')
-    st.subheader('Patient Information')
+    st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
+    st.subheader('Information')
     year = st.text_input('Year',value='0')
     month = st.selectbox('Month', ('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'))
     day = st.selectbox('Day', ('Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'))
     extended = st.selectbox('Extended', ('0', '1'))
-    state = st.selectbox('State', ('Lagos', 'Kaduna', 'Unknown', 'Katsina', 'Zamfara', 'Kano',
-                                    'Akwa Ibom', 'Edo', 'Taraba', 'Ondo', 'Bayelsa', 'Cross River',
-                                    'Abuja', 'Oyo', 'Anambra', 'Rivers', 'Osun', 'Ekiti', 'Delta',
-                                    'Enugu', 'Ogun', 'Plateau', 'Kwara', 'Imo', 'Kogi', 'Borno',
-                                    'Bauchi', 'Sokoto', 'Abia', 'Benue', 'Ebonyi', 'Adamawa', 'Gombe',
-                                    'Niger', 'Kebbi', 'Yobe', 'Jigawa', 'Nasarawa'))
-    city = st.text_input('city')
+    state = st.text_input('State')
+    city = st.text_input('City')
     
-    target_type = st.selectbox('target_type', ('Government (General)', 'Government (Diplomatic)',
-                                                            'Educational Institution', 'Journalists & Media',
-                                                            'Private Citizens & Property', 'Police',
-                                                            'Religious Figures/Institutions', 'Business', 'Maritime',
-                                                            'Military', 'Unknown', 'Transportation', 'Utilities',
-                                                            'Violent Political Party', 'Airports & Aircraft',
-                                                            'Telecommunication', 'NGO', 'Other',
-                                                            'Terrorists/Non-State Militia'))
+    target_type = st.text_input('Target Type')
     
-    nationality = st.selectbox('nationality Year', ('Nigeria', 'Great Britain', 'Libya', 'Saudi Arabia', 'Australia',
-                                                    'France', 'Unknown', 'Netherlands', 'International',
-                                                    'United States', 'Multinational', 'Belize', 'Germany', 'Italy',
-                                                    'South Korea', 'Norway', 'China', 'Philippines', 'Croatia',
-                                                    'Lebanon', 'Turkey', 'Indonesia', 'India', 'Russia', 'Poland',
-                                                    'Asian', 'Syria', 'Afghanistan', 'Israel', 'Denmark', 'Namibia',
-                                                    'Chad', 'South Africa', 'North Korea', 'Niger', 'Greece','Liberia'))
+    nationality = st.text_input('Nationality')
     
-    weapon_type =st.selectbox('weapon_type',('Firearms', 'Unknown', 'Incendiary', 'Melee', 'Explosives','Chemical', 'Sabotage Equipment'))
+    weapon_type =st.text_input('Weapon Type')
     
     
      
@@ -81,18 +64,17 @@ def prediction_page():
         # Preprocess the input features
         try:
             input_data = {
-                'year': [year],
-                'month': [month],
-                'day': [day],
-                'extended': [extended],
-                'state': [state],
-                'city': [city],
-                'target_type': [target_type],
-                'nationality': [nationality],
-                'weapon_type': [weapon_type],
-                
-            }
-            # st.write("Input Data Shape:", input_df.shape)
+                            'year': [year],
+                            'month': [month],
+                            'day': [day],
+                            'extended': [extended],
+                            'state': [state],
+                            'city': [city],
+                            'target_type': [target_type],
+                            'nationality': [nationality],
+                            'weapon_type': [weapon_type],
+                        }
+            # logger.info(f"Input Data Shape: {input_data.shape}")
             # Convert input data to a Pandas DataFrame
             input_df = pd.DataFrame(input_data)   
             # Perform the transformation using the loaded transformer
@@ -100,6 +82,7 @@ def prediction_page():
             # st.write("Transformed Data Shape:", transformed_data.shape)
             # Reshape the transformed data as a NumPy array
             input_arr = np.array(transformed_data)
+            # logger.info(f"Input Array Shape: {input_arr.shape}")
             # Make the prediction using the loaded model
             prediction = model.predict(input_arr)
             st.subheader('Prediction')

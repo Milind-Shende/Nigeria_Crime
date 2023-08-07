@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/Project_Nigeria_crime/Nigeria_Crime/mlruns/0/bb21eca1e09c483fba4ed050826395c5/artifacts
+end_time: 1691430475654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb21eca1e09c483fba4ed050826395c5
+run_name: righteous-kite-621
+run_uuid: bb21eca1e09c483fba4ed050826395c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691430458597
+status: 3
+tags: []
+user_id: milin
