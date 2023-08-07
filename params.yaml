@@ -1,1 +1,2 @@
-key: val
+xgboost:
+  n_estimators: 200

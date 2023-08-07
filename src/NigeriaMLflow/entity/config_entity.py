@@ -23,32 +23,27 @@ class DataTransformationConfig:
     data_path: Path
 
 
-# @dataclass(frozen=True)
-# class ModelTrainerConfig:
-#     root_dir: Path
-#     train_data_path: Path
-#     test_data_path: Path
-#     model_name: str
-#     transformer_name: str
-#     target_name:str
-#     n_estimators: int
-#     learning_rate: int
-#     max_depth: int
-#     subsample: int
-#     colsample_bytree: int
-#     random_state: int               
-#     target_column: str
+@dataclass(frozen=True)
+class ModelTrainerConfig:
+    root_dir: Path
+    train_data_path: Path
+    test_data_path: Path
+    model_name: str
+    transformer_name: str
+    target_name:str
+    n_estimators: int               
+    target_column: str
 
-# @dataclass(frozen=True)
-# class ModelEvaluationConfig:
-#     root_dir: Path
-#     test_data_path: Path
-#     train_data_path: Path
-#     model_path: Path
-#     transformer_path: Path
-#     target_path: Path
-#     all_params: dict
-#     metric_file_name_train: Path
-#     metric_file_name_test: Path
-#     target_column: str
-#     mlflow_uri: str
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    root_dir: Path
+    test_data_path: Path
+    train_data_path: Path
+    model_path: Path
+    transformer_path: Path
+    target_path: Path
+    all_params: dict
+    metric_file_name_train: Path
+    metric_file_name_test: Path
+    target_column: str
+    mlflow_uri: str
