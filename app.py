@@ -93,7 +93,7 @@ def prediction_page():
 
 # Teams page
 def collaborators_page():
-    st.title('Predicting the Financial Burden of Lung Cancer')
+    st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
     st.write('Meet our awesome team members:')
     st.write('- Team Member 1')
     st.write('- Team Member 2')
