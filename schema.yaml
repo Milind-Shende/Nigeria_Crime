@@ -1,28 +1,14 @@
 COLUMNS:
-
-  date: object 
+  
   year: int64  
   month: object 
   day: object 
   extended: int64  
   state: object 
-  city:  object 
-  latitude: float64
-  longitude: float64
-  multiple: int64  
-  success: int64  
-  suicide: int64  
-  target_type: object 
-  target_subtype: object 
-  corp: object 
-  target: object 
+  city:  object
+  target_type: object
   nationality: object 
-  group_name: object 
-  gun_certain: int64  
   weapon_type: object 
-  weapon_subtype: object 
-  no_killed: int64  
-  no_wounded: int64 
 
 TARGET_COLUMN:
 
