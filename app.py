@@ -40,7 +40,6 @@ st.set_page_config(
 # About page
 def about_page():
     st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
-    st.markdown('<style>div.block-container{padding-top:1rem;}</style>',unsafe_allow_html=True)
     st.write('The problem this project is targeted to solve is to help the security agencies to mitigate the rate of crime committed in the country by giving the security agencies reasonable insight into the distribution of crime committed in Nigeria, and also enable them to anticipate possible crime and location of the crime, in order to be able to make adequate security checks and take the necessary security measures.')
     
 def visualization_page():
