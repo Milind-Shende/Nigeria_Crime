@@ -7,7 +7,9 @@ from NigeriaMLflow import logger
 import pygwalker as pyg
 import pandas as pd
 import streamlit.components.v1 as components
+import streamlit.components.v1 as stc 
 import streamlit as st
+from scipy.sparse import issparse
 
 ROOT_DIR = os.getcwd()
 SAVED_DIR_PATH = "artifacts"
@@ -42,6 +44,13 @@ def about_page():
     st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
     st.write('The problem this project is targeted to solve is to help the security agencies to mitigate the rate of crime committed in the country by giving the security agencies reasonable insight into the distribution of crime committed in Nigeria, and also enable them to anticipate possible crime and location of the crime, in order to be able to make adequate security checks and take the necessary security measures.')
     
+
+def load_data(data_file):
+    if data_file is not None:
+        df = pd.read_csv(data_file)
+        return df
+    return None
+
 def visualization_page():
     df=pd.read_csv("terrorism_cleaned.csv")
     
@@ -53,21 +62,35 @@ def visualization_page():
     # Embed the HTML into the Streamlit app
     components.html(pyg_html, height=1000, scrolling=True)
 
+Target_labels = ['Assassination', 'Unknown', 'Facility/Infrastructure Attack',
+                'Unarmed Assault', 'Armed Assault', 'Bombing/Explosion',
+                'Hostage Taking (Kidnapping)',
+                'Hostage Taking (Barricade Incident)', 'Hijacking']
+    
 # Main prediction page
 def prediction_page():
     # Title and input fields
     st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
     st.subheader('Information')
-    year = st.text_input('Year',value='0')
+    year = st.selectbox('Year',('1976', '1980', '1983', '1988', '1991', '1992', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021'))
     month = st.selectbox('Month', ('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'))
     day = st.selectbox('Day', ('Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'))
     extended = st.selectbox('Extended', ('0', '1'))
     state = st.text_input('State')
     city = st.text_input('City')
-    target_type = st.text_input('Target Type')
+    target_type = st.selectbox('Target Type',('Government (General)', 'Government (Diplomatic)',
+                                'Educational Institution', 'Journalists & Media',
+                                'Private Citizens & Property', 'Police',
+                                'Religious Figures/Institutions', 'Business', 'Maritime',
+                                'Military', 'Unknown', 'Transportation', 'Utilities',
+                                'Violent Political Party', 'Airports & Aircraft',
+                                'Telecommunication', 'NGO', 'Other',
+                                'Terrorists/Non-State Militia'))
     nationality = st.text_input('Nationality')
-    weapon_type =st.text_input('Weapon Type')
+    weapon_type =st.selectbox('Weapon Type',('Firearms', 'Unknown', 'Incendiary', 'Melee', 'Explosives','Chemical', 'Sabotage Equipment'))
     
+    
+
     # Prediction button
     if st.button('Predict'):
         # Preprocess the input features
@@ -83,16 +106,25 @@ def prediction_page():
                             'nationality': [nationality],
                             'weapon_type': [weapon_type],
                         }
+            
             # Convert input data to a Pandas DataFrame
-            input_df = pd.DataFrame(input_data)   
+            input_df = pd.DataFrame(input_data)
+
             # Perform the transformation using the loaded transformer
             transformed_data = transfomer.transform(input_df)
-            # Reshape the transformed data as a NumPy array
-            input_arr = np.array(transformed_data)
+
+            # Convert transformed_data to a dense NumPy array
+            if issparse(transformed_data):
+                input_arr = transformed_data.toarray()
+            else:
+                input_arr = np.array(transformed_data)
+
             # Make the prediction using the loaded model
-            prediction = model.predict(input_arr)
+            predicted_index = model.predict(input_arr)[0]
+            predicted_attack_type = Target_labels[predicted_index]
             st.subheader('Prediction')
-            st.write(f'The predicted total charge is: {prediction}')
+            st.write(f'The predicted attack type is: {predicted_attack_type}')
+                
         except Exception as e:
         # error message if an exception occurs
             st.error(f"An error occurred: {e}")

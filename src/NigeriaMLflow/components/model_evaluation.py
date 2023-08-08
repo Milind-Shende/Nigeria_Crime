@@ -48,6 +48,8 @@ class ModelEvaluation:
         train_y=target.fit_transform(train_y)
         test_y=target.fit_transform(test_y)
 
+        
+
 
         mlflow.set_registry_uri(self.config.mlflow_uri)
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme

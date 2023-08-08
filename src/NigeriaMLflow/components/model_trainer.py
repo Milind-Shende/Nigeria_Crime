@@ -7,7 +7,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, RobustScaler,MinMaxScaler,StandardScaler,LabelEncoder
 from sklearn.compose import ColumnTransformer
 from xgboost import XGBClassifier
-from imblearn.combine import SMOTETomek
+
 
 
 
@@ -52,6 +52,7 @@ class ModelTrainer:
         target_scaler=LabelEncoder()
         train_y=target_scaler.fit_transform(train_y)
         test_y=target_scaler.fit_transform(test_y)
+        
 
        
 
