@@ -50,15 +50,10 @@ def prediction_page():
     extended = st.selectbox('Extended', ('0', '1'))
     state = st.text_input('State')
     city = st.text_input('City')
-    
     target_type = st.text_input('Target Type')
-    
     nationality = st.text_input('Nationality')
-    
     weapon_type =st.text_input('Weapon Type')
     
-    
-     
     # Prediction button
     if st.button('Predict'):
         # Preprocess the input features
@@ -74,19 +69,16 @@ def prediction_page():
                             'nationality': [nationality],
                             'weapon_type': [weapon_type],
                         }
-            # logger.info(f"Input Data Shape: {input_data.shape}")
             # Convert input data to a Pandas DataFrame
             input_df = pd.DataFrame(input_data)   
             # Perform the transformation using the loaded transformer
             transformed_data = transfomer.transform(input_df)
-            # st.write("Transformed Data Shape:", transformed_data.shape)
             # Reshape the transformed data as a NumPy array
             input_arr = np.array(transformed_data)
-            # logger.info(f"Input Array Shape: {input_arr.shape}")
             # Make the prediction using the loaded model
             prediction = model.predict(input_arr)
             st.subheader('Prediction')
-            st.write(f'The predicted total charge is: {prediction[0]}')
+            st.write(f'The predicted total charge is: {prediction}')
         except Exception as e:
         # error message if an exception occurs
             st.error(f"An error occurred: {e}")
