@@ -47,7 +47,10 @@ Now,
 ```bash
 open up you local host and port
 ```
+## PyGWalker
 
+[Documentation](https://docs.kanaries.net/pygwalker)
+[How to use](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit)
 
 
 ## MLflow

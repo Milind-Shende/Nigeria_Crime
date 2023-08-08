@@ -1,10 +1,13 @@
-import streamlit as st
 import pickle
 import os
 import pandas as pd
 import numpy as np
 import joblib 
 from NigeriaMLflow import logger
+import pygwalker as pyg
+import pandas as pd
+import streamlit.components.v1 as components
+import streamlit as st
 
 ROOT_DIR = os.getcwd()
 SAVED_DIR_PATH = "artifacts"
@@ -29,15 +32,27 @@ model=joblib.load(open(MODEL_DIR,"rb"))
 transfomer=joblib.load(open(TRANSFORMER_DIR,"rb"))
 # print(transfomer)
 
-
+# Adjust the width of the Streamlit page
+st.set_page_config(
+    page_title="Visualisation of Crime in Nigeria",
+    layout="wide")
 
 # About page
 def about_page():
     st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
+    st.markdown('<style>div.block-container{padding-top:1rem;}</style>',unsafe_allow_html=True)
     st.write('The problem this project is targeted to solve is to help the security agencies to mitigate the rate of crime committed in the country by giving the security agencies reasonable insight into the distribution of crime committed in Nigeria, and also enable them to anticipate possible crime and location of the crime, in order to be able to make adequate security checks and take the necessary security measures.')
     
-def visualization_page():...
-
+def visualization_page():
+    df=pd.read_csv("terrorism_cleaned.csv")
+    
+    # Add Title
+    st.title("Visualisation of Crime in Nigeria")
+    st.markdown('<style>div.block-container{padding-top:1rem;}</style>',unsafe_allow_html=True)
+    # Generate the HTML using Pygwalker
+    pyg_html = pyg.walk(df, return_html=True)
+    # Embed the HTML into the Streamlit app
+    components.html(pyg_html, height=1000, scrolling=True)
 
 # Main prediction page
 def prediction_page():
