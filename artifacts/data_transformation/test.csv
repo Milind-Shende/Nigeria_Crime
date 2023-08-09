@@ -1,0 +1,1501 @@
+year,month,day,extended,state,city,attack_type,target_type,nationality,weapon_type
+2013,Aug,Fri,0,Borno,Beni Shiek,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Mar,Sun,0,Abuja,Abuja,Armed Assault,Government (General),Nigeria,Firearms
+2017,Jun,Wed,0,Borno,Abbari,Bombing/Explosion,Business,Nigeria,Explosives
+2014,Jun,Tue,0,Yobe,Damaturu,Bombing/Explosion,Business,Nigeria,Explosives
+2021,Feb,Sat,0,Oyo,Ajaawa,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2008,May,Sat,0,Delta,Warri,Unknown,Private Citizens & Property,Nigeria,Unknown
+2015,Jul,Tue,0,Borno,Baga,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Dec,Wed,0,Kaduna,Ungwan Dauda,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jul,Tue,0,Kaduna,Zaria,Bombing/Explosion,Government (General),Nigeria,Explosives
+2016,Feb,Wed,0,Benue,Okokolo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Aug,Thu,0,Benue,Anyiin,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Dec,Sun,0,Akwa Ibom,Afaha Ikot Ebak,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2016,Nov,Wed,1,Lagos,Igbodu,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2014,Mar,Fri,0,Borno,Maiduguri,Armed Assault,Military,Nigeria,Explosives
+2018,Sep,Wed,0,Borno,Maiduguri,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2016,May,Tue,0,Taraba,Isini,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2006,Dec,Sat,0,Unknown,Unknown,Bombing/Explosion,Business,Nigeria,Explosives
+2015,Jan,Fri,0,Benue,Mgbekpa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Sep,Wed,0,Kaduna,Fadan Karshi,Armed Assault,Military,Nigeria,Firearms
+2011,Sep,Sun,0,Borno,Maiduguri,Bombing/Explosion,Government (General),Nigeria,Explosives
+1999,Jun,Sat,1,Delta,Kantu,Armed Assault,Private Citizens & Property,Nigeria,Incendiary
+2015,Aug,Sun,1,Borno,Bama district,Hostage Taking (Kidnapping),Transportation,Nigeria,Unknown
+2020,Oct,Wed,0,Rivers,Oyigbo,Armed Assault,Police,Nigeria,Firearms
+2012,Dec,Sun,0,Borno,Kiyak,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2019,Dec,Wed,0,Taraba,Wukari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Dec,Sat,1,Kaduna,Rogo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Aug,Sun,0,Borno,Gulumba Gana,Bombing/Explosion,Military,Nigeria,Explosives
+2018,Feb,Sat,0,Yobe,Buni Yadi,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2021,May,Tue,1,Kaduna,Unknown,Hostage Taking (Kidnapping),Business,Nigeria,Firearms
+2016,Aug,Wed,0,Borno,Bitta,Armed Assault,Military,Nigeria,Firearms
+2011,Sep,Sat,0,Borno,Maiduguri,Bombing/Explosion,Military,Nigeria,Explosives
+2012,May,Tue,0,Yobe,Damaturu,Bombing/Explosion,Military,Nigeria,Explosives
+2012,Feb,Tue,0,Borno,Maiduguri,Armed Assault,Business,Nigeria,Melee
+2015,Apr,Tue,0,Benue,Imande Bebeshi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Nov,Thu,0,Adamawa,Marabar-Mubi,Bombing/Explosion,Military,Nigeria,Explosives
+2015,Feb,Sat,0,Gombe,Zambuk,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Sep,Mon,0,Borno,Mashemeri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2021,Apr,Tue,0,Akwa Ibom,Ika district,Unknown,Police,Nigeria,Unknown
+2013,Apr,Tue,0,Abuja,Garki,Bombing/Explosion,Government (General),Nigeria,Explosives
+2020,Oct,Thu,1,Benue,Edikwu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Oct,Sat,1,Borno,Moranti,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Tue,0,Benue,Mbalom,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2018,Nov,Thu,0,Kwara,Odofin Igbana,Assassination,Private Citizens & Property,Nigeria,Firearms
+2013,Aug,Fri,0,Kano,Kano,Armed Assault,Business,Nigeria,Firearms
+2015,Feb,Sun,1,Adamawa,Kobachwa,Unknown,Private Citizens & Property,Nigeria,Unknown
+2015,Mar,Sun,0,Borno,Konduga district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Jan,Sun,0,Borno,Banki,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2010,Feb,Wed,0,Delta,Kokori,Bombing/Explosion,Utilities,Great Britain,Explosives
+2012,Aug,Mon,0,Yobe,Damagum,Bombing/Explosion,Educational Institution,Nigeria,Explosives
+2011,Jun,Mon,0,Borno,Maiduguri,Armed Assault,Government (General),Nigeria,Firearms
+2020,Feb,Sat,0,Adamawa,Kwuapa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,May,Tue,0,Kaduna,Ninte,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Apr,Mon,0,Borno,Maiduguri,Bombing/Explosion,Military,Nigeria,Explosives
+2011,Jan,Thu,0,Borno,Maiduguri,Bombing/Explosion,Government (General),Nigeria,Explosives
+2018,Apr,Wed,0,Taraba,Bikka,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Aug,Tue,1,Borno,Kukawa,Hostage Taking (Kidnapping),Military,Nigeria,Explosives
+2012,May,Sat,0,Taraba,Dananaca,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2020,Apr,Mon,0,Benue,Tse Vambe,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2014,Oct,Sun,0,Taraba,Sondi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jun,Sat,0,Yobe,Damaturu,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2014,Mar,Sun,0,Borno,Pela Birni,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Jan,Wed,0,Kaduna,Kafanchan,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+1997,Aug,Wed,0,Osun,Ife,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Jan,Sun,0,Bauchi,Bauchi,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2019,Nov,Fri,0,Borno,Unknown,Bombing/Explosion,Military,Nigeria,Explosives
+2021,Aug,Thu,0,Akwa Ibom,Odoro Ikpe,Armed Assault,Police,Nigeria,Firearms
+2012,May,Fri,0,Kano,Kano,Armed Assault,Military,Nigeria,Firearms
+2021,Sep,Wed,0,Yobe,Unknown,Unknown,Military,Nigeria,Unknown
+2013,Jun,Tue,0,Gombe,Komo,Bombing/Explosion,Police,Nigeria,Explosives
+2014,Jul,Mon,0,Borno,Dille,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2017,Jul,Mon,0,Borno,Maiduguri,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2018,Apr,Wed,0,Taraba,Basam,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2016,Nov,Wed,0,Benue,Oweto,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Mon,0,Borno,Askira,Armed Assault,Private Citizens & Property,Nigeria,Incendiary
+2018,Apr,Fri,0,Benue,Mbawa,Unknown,Private Citizens & Property,Nigeria,Unknown
+2012,Jun,Tue,0,Bauchi,Bauchi,Bombing/Explosion,Unknown,Nigeria,Explosives
+2015,Mar,Sun,0,Anambra,Onitsha South district,Bombing/Explosion,Government (General),Nigeria,Explosives
+2013,Oct,Thu,0,Yobe,Damatura,Armed Assault,Police,Nigeria,Explosives
+2013,Jul,Sat,0,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Jan,Sun,0,Adamawa,Kikon,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2008,Dec,Sat,0,Rivers,Opobo,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2011,Oct,Wed,0,Plateau,Jos,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2020,May,Sun,0,Borno,Gajiganna,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2012,Oct,Thu,0,Borno,Banki,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,May,Tue,0,Borno,Kalabalge district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Sep,Tue,1,Borno,Jakana,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2014,Aug,Sun,0,Taraba,Nbishu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Mar,Thu,0,Borno,Gajiganna,Armed Assault,Military,Nigeria,Firearms
+2013,Nov,Sun,0,Borno,Maiduguri,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2011,Dec,Sun,0,Plateau,Jos,Bombing/Explosion,Unknown,Nigeria,Explosives
+2015,Nov,Wed,0,Gombe,Birnin Bolewa,Armed Assault,Government (General),Nigeria,Firearms
+2018,Feb,Sat,1,Abia,Umuahia,Hostage Taking (Kidnapping),Journalists & Media,Nigeria,Firearms
+2014,Aug,Wed,0,Gombe,Gombe,Bombing/Explosion,Military,Nigeria,Explosives
+2020,Sep,Wed,1,Borno,Auno,Hostage Taking (Kidnapping),Military,Nigeria,Firearms
+2016,Oct,Sun,0,Kaduna,Chikun district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Aug,Tue,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Nigeria,Explosives
+2012,Dec,Wed,0,Borno,Mafa,Armed Assault,Police,Nigeria,Firearms
+2019,Jul,Wed,1,Enugu,Igbo-eze North district,Hostage Taking (Kidnapping),Government (Diplomatic),Nigeria,Firearms
+2015,Jun,Thu,0,Kaduna,Birnin Gwari district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2006,Jun,Wed,0,Anambra,Onitsha,Unarmed Assault,Religious Figures/Institutions,Nigeria,Melee
+2016,Feb,Mon,0,Adamawa,Michika,Unknown,Private Citizens & Property,Nigeria,Unknown
+2019,Jun,Mon,0,Kaduna,Ungwan Rimi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Mar,Wed,0,Kano,Kano,Bombing/Explosion,Police,Nigeria,Explosives
+2015,Oct,Tue,0,Adamawa,Kubla,Bombing/Explosion,Unknown,Nigeria,Explosives
+2016,Nov,Sun,0,Kaduna,Kitakum,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Mar,Tue,0,Kano,Kano,Armed Assault,Police,Nigeria,Firearms
+2014,Jun,Sat,0,Kaduna,Gwantu district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Sep,Mon,0,Kaduna,Antang,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Dec,Mon,0,Anambra,Awka,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2012,Nov,Thu,0,Yobe,Potiskum,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Dec,Wed,0,Benue,Gemana,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,May,Wed,0,Kano,Fagge,Bombing/Explosion,Journalists & Media,Nigeria,Explosives
+2013,Mar,Sun,0,Borno,Maiduguri,Armed Assault,Educational Institution,Nigeria,Firearms
+2018,Jun,Sun,0,Plateau,Barakin Ladi district,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,May,Sat,0,Rivers,Onne,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jul,Sun,0,Yobe,Unknown,Bombing/Explosion,Unknown,Nigeria,Explosives
+2018,Apr,Tue,0,Benue,Umenger,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,May,Tue,0,Borno,Kalabalge district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Jul,Mon,0,Borno,Kaleri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Nov,Sat,0,Plateau,Chugwi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Dec,Thu,0,Borno,Magumeri,Armed Assault,Military,Nigeria,Firearms
+2020,Nov,Wed,0,Borno,Miyanti,Unknown,Military,Nigeria,Unknown
+2015,Jul,Tue,0,Plateau,Sho,Armed Assault,Police,Nigeria,Firearms
+2014,Jun,Sat,1,Borno,Dagu,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2012,Oct,Mon,0,Niger,Tunga,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2019,Oct,Thu,0,Imo,Ngor-Okpala district,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2014,Nov,Mon,0,Katsina,Maigora,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Sep,Wed,0,Plateau,Kadunug,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Apr,Thu,0,Borno,Marama,Armed Assault,Government (General),Nigeria,Firearms
+1999,Aug,Sat,0,Unknown,Egwa,Hostage Taking (Kidnapping),Business,United States,Unknown
+2014,Oct,Sat,0,Delta,Effurun,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2011,Dec,Tue,0,Delta,Sapele,Bombing/Explosion,Educational Institution,Nigeria,Explosives
+2012,Nov,Wed,0,Borno,Rann,Facility/Infrastructure Attack,Government (General),Nigeria,Unknown
+2012,Feb,Fri,0,Kano,Kano,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2020,Mar,Mon,0,Adamawa,Sabongari,Armed Assault,Military,Nigeria,Firearms
+2015,Dec,Wed,0,Borno,Mafa,Bombing/Explosion,Terrorists/Non-State Militia,Nigeria,Explosives
+2019,Mar,Thu,0,Borno,Ngazai,Unknown,Military,International,Unknown
+2019,Jun,Thu,0,Benue,Gyenku,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Sep,Mon,0,Bauchi,Azare,Assassination,Police,Nigeria,Firearms
+2019,Jul,Mon,1,Bayelsa,Azagbene,Unknown,Military,Nigeria,Unknown
+2015,Jan,Fri,0,Bauchi,Bauchi,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2018,Oct,Thu,0,Borno,Kalla,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2016,Jan,Sun,0,Adamawa,Tabongo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Sep,Tue,0,Zamfara,Fegin Mahe,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2013,Mar,Mon,0,Yobe,Gulani district,Facility/Infrastructure Attack,Telecommunication,Nigeria,Incendiary
+2013,Mar,Mon,0,Plateau,Da Jak,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2021,Jan,Sun,0,Ogun,Ijebu North district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,May,Wed,0,Bauchi,Unknown,Bombing/Explosion,Telecommunication,Nigeria,Explosives
+2015,May,Wed,0,Borno,Maiduguri,Bombing/Explosion,Military,Nigeria,Explosives
+2015,Aug,Fri,0,Borno,Badu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Sep,Fri,0,Borno,Konduga,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,May,Sun,0,Imo,Ahiazu-Mbaise district,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2019,Feb,Sat,0,Rivers,Ajakaja,Assassination,Private Citizens & Property,Nigeria,Firearms
+2016,Oct,Mon,1,Borno,Gashagar,Hostage Taking (Kidnapping),Military,Nigeria,Explosives
+2021,Feb,Fri,0,Borno,Ajiri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Feb,Fri,1,Adamawa,Garkida,Hostage Taking (Kidnapping),Police,Nigeria,Explosives
+2013,Oct,Mon,1,Bayelsa,Ogbia,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2017,May,Sat,0,Borno,Amrawa,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Melee
+2013,Jun,Sun,0,Yobe,Damaturu,Unknown,Military,Nigeria,Unknown
+2015,Mar,Sun,0,Rivers,Port Harcourt,Bombing/Explosion,Government (General),Nigeria,Explosives
+2016,Jan,Sun,0,Adamawa,Fawure,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jul,Tue,1,Borno,Bulabulin,Armed Assault,Military,Nigeria,Firearms
+2010,Dec,Fri,0,Abuja,Jikoyi,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2014,Apr,Fri,0,Gombe,Nafada,Armed Assault,Violent Political Party,Nigeria,Explosives
+2015,Mar,Sat,0,Borno,Jere,Unknown,Private Citizens & Property,Nigeria,Unknown
+2015,Mar,Sun,0,Borno,Kukawa district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Jan,Fri,0,Borno,Marte,Armed Assault,Military,Nigeria,Firearms
+2012,Aug,Wed,0,Bauchi,Gubi,Armed Assault,Police,Nigeria,Firearms
+2018,Oct,Sat,1,Nasarawa,Keffi,Hostage Taking (Kidnapping),Journalists & Media,Nigeria,Firearms
+2011,Dec,Mon,0,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Jul,Sun,1,Benue,Ukum district,Hostage Taking (Kidnapping),Police,Nigeria,Firearms
+2012,Jun,Fri,0,Adamawa,Mubi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Oct,Tue,0,Borno,Chibuk,Facility/Infrastructure Attack,Educational Institution,Nigeria,Firearms
+2020,Feb,Mon,0,Ondo,Ode-Irele,Armed Assault,Police,Nigeria,Firearms
+2012,Apr,Tue,0,Borno,Gamboru,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Nov,Wed,0,Borno,Muna Gari,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Jul,Wed,1,Borno,Kukawa district,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2014,May,Sat,0,Plateau,Gwon,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Sep,Sun,0,Rivers,Port Harcourt,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2016,May,Thu,0,Delta,Unknown,Bombing/Explosion,Utilities,Nigeria,Explosives
+2021,May,Sun,1,Benue,Odokem,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Oct,Thu,0,Kogi,Okofi,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2014,May,Wed,0,Borno,Gumushi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Sep,Tue,0,Borno,Dikwa,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2018,Sep,Wed,0,Borno,Wanori,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jul,Wed,1,Borno,Kauyen Kuros,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2013,Apr,Wed,0,Borno,Gwoza,Armed Assault,Business,Nigeria,Explosives
+2018,Dec,Fri,0,Borno,Baga,Unknown,Military,Nigeria,Unknown
+2015,May,Fri,1,Adamawa,Yola,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2010,Oct,Fri,0,Bauchi,Ganuwa,Unknown,Private Citizens & Property,Nigeria,Unknown
+2014,Apr,Wed,0,Plateau,Atakar,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Aug,Sat,1,Adamawa,Madagali,Hostage Taking (Kidnapping),Government (General),Nigeria,Explosives
+2012,May,Sat,0,Kano,Kano,Bombing/Explosion,Police,Nigeria,Explosives
+2019,Jul,Fri,0,Borno,Molai,Bombing/Explosion,Military,Nigeria,Explosives
+2015,Jan,Sat,1,Adamawa,Mbororo,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Incendiary
+2017,Aug,Tue,0,Borno,Konduga,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2018,Jul,Tue,0,Borno,Damboa,Armed Assault,Military,Nigeria,Firearms
+1992,Mar,Fri,0,Taraba,Jalingo,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Firearms
+2015,Dec,Fri,1,Borno,Kimba,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2019,Jul,Sat,0,Borno,Lamisula Bukar Bulala,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Sep,Sun,0,Abia,Ohafia district,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2016,Feb,Mon,0,Abia,Ikeala Ahiaba,Assassination,Private Citizens & Property,Nigeria,Firearms
+2012,Mar,Sat,0,Yobe,Potiskum,Bombing/Explosion,Police,Nigeria,Explosives
+2016,Jul,Wed,1,Cross River,Bakassi district,Hijacking,Maritime,Liberia,Unknown
+2008,Jul,Fri,1,Rivers,Port Harcourt,Hostage Taking (Kidnapping),Utilities,Multinational,Firearms
+2017,Aug,Mon,0,Plateau,Longvel,Assassination,Private Citizens & Property,Nigeria,Firearms
+2014,Jun,Tue,0,Adamawa,Mubi,Bombing/Explosion,Police,Nigeria,Explosives
+2017,Oct,Thu,0,Borno,Bulabulin,Armed Assault,Military,Nigeria,Firearms
+2017,Jun,Sun,0,Borno,Gumsuri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jun,Thu,0,Plateau,Riyom,Assassination,Violent Political Party,Nigeria,Firearms
+2014,Mar,Tue,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2020,Feb,Fri,1,Yobe,Lantewa,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2010,Dec,Fri,0,Delta,Unknown,Bombing/Explosion,Utilities,Nigeria,Explosives
+2018,May,Thu,0,Benue,Ifer,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Sep,Thu,0,Borno,Konduga,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2003,Nov,Thu,1,Delta,Warri,Hostage Taking (Kidnapping),Business,International,Firearms
+2013,Aug,Fri,0,Kano,Kano,Armed Assault,Business,Nigeria,Firearms
+2017,Nov,Tue,0,Adamawa,Mubi,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2017,Apr,Sat,0,Ogun,Iwopin,Unknown,Private Citizens & Property,Nigeria,Unknown
+2016,Jan,Sun,0,Borno,Maiduguri,Bombing/Explosion,Government (General),Nigeria,Explosives
+2014,May,Sun,0,Zamfara,Galadima,Armed Assault,Terrorists/Non-State Militia,Nigeria,Firearms
+2012,Jun,Fri,0,Adamawa,Yola,Armed Assault,Business,Nigeria,Firearms
+2012,Apr,Wed,0,Gombe,Bajoga,Bombing/Explosion,Police,Nigeria,Explosives
+2021,May,Mon,0,Imo,Isu district,Facility/Infrastructure Attack,Police,Nigeria,Incendiary
+2014,May,Thu,0,Lagos,Lagos,Bombing/Explosion,Business,Nigeria,Explosives
+2019,Jun,Sat,0,Oyo,Maya,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2019,May,Thu,0,Adamawa,Kuda,Unknown,Private Citizens & Property,Nigeria,Unknown
+2020,Nov,Sat,1,Nasarawa,Lafia,Assassination,Private Citizens & Property,Nigeria,Firearms
+2019,Jan,Sun,1,Borno,Marte district,Armed Assault,Military,Nigeria,Firearms
+2018,Sep,Wed,1,Kebbi,Ribah,Hostage Taking (Kidnapping),Violent Political Party,Nigeria,Firearms
+2021,Jan,Tue,0,Akwa Ibom,Ibiaku Ntok Okpo,Armed Assault,Police,Nigeria,Firearms
+2014,Oct,Sun,0,Borno,Sabon Gida,Unknown,Private Citizens & Property,Nigeria,Unknown
+2020,Oct,Wed,0,Lagos,Matori,Facility/Infrastructure Attack,Journalists & Media,Nigeria,Firearms
+2012,Apr,Mon,0,Borno,Maiduguri,Armed Assault,Government (General),Nigeria,Firearms
+2019,Mar,Mon,0,Borno,Gwoza district,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Apr,Sun,0,Benue,Mbatie,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jun,Sat,0,Borno,Auno,Armed Assault,Military,Nigeria,Firearms
+2019,Feb,Fri,1,Kaduna,Barnawa,Hostage Taking (Kidnapping),Educational Institution,Nigeria,Firearms
+2020,Apr,Sun,0,Kaduna,Ungwan Magaji,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Thu,0,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Aug,Wed,0,Rivers,Choba,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Nov,Wed,0,Borno,Maiduguri,Assassination,Government (General),Nigeria,Firearms
+2018,Mar,Wed,1,Kogi,Ogane Inugu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jul,Tue,0,Borno,Maiduguri,Armed Assault,Military,Nigeria,Firearms
+2020,Nov,Mon,0,Bayelsa,Ikarama,Bombing/Explosion,Utilities,Nigeria,Explosives
+2012,May,Wed,0,Borno,Maiduguri,Facility/Infrastructure Attack,Telecommunication,Nigeria,Incendiary
+2021,Apr,Thu,0,Nasarawa,Gindan Rai,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+1991,Aug,Fri,0,Zamfara,Gusau City,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2020,Jul,Tue,0,Borno,Gubio,Unknown,Military,Nigeria,Unknown
+2020,Jul,Sun,1,Kaduna,Kukum Daji,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Sep,Sun,0,Bauchi,Bauchi,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2014,Jan,Thu,0,Kaduna,Zaria,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2019,Feb,Fri,1,Borno,Gwoza district,Hostage Taking (Kidnapping),Transportation,Nigeria,Firearms
+2013,Feb,Thu,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2013,Oct,Sun,0,Borno,Banki,Armed Assault,Military,Nigeria,Explosives
+2016,Mar,Fri,0,Borno,Gwoza district,Bombing/Explosion,Military,Nigeria,Explosives
+2014,Oct,Thu,0,Adamawa,Vimtim,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2014,Sep,Tue,0,Benue,Okpokwu district,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Unknown
+2014,Oct,Thu,0,Borno,Ashigashiya,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2014,May,Wed,0,Taraba,Bali district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Dec,Wed,0,Kaduna,Gogwada,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jan,Fri,0,Taraba,Nwonko,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jun,Tue,0,Borno,Mobbar,Assassination,Private Citizens & Property,Nigeria,Firearms
+2015,Dec,Sun,0,Borno,Beni Shiek,Bombing/Explosion,Terrorists/Non-State Militia,Nigeria,Explosives
+2019,Aug,Mon,0,Borno,Molai,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Melee
+2016,Aug,Sun,0,Borno,Shawa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Jan,Sun,0,Benue,Dyom,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,May,Thu,0,Borno,Gwoza,Armed Assault,Religious Figures/Institutions,Nigeria,Explosives
+2018,Jan,Thu,0,Benue,Uvir,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jul,Thu,0,Plateau,Riyom district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,May,Thu,0,Benue,Edimoga,Unknown,Private Citizens & Property,Nigeria,Unknown
+2014,Aug,Fri,0,Osun,Ede,Assassination,Government (General),Nigeria,Firearms
+2017,Sep,Wed,0,Edo,Uluoke,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,May,Mon,0,Benue,Unknown,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Aug,Sat,1,Borno,Gajiram,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Explosives
+2012,Oct,Tue,0,Borno,Chibuk,Bombing/Explosion,Police,Nigeria,Explosives
+2013,Feb,Sat,0,Yobe,Ngalda,Armed Assault,Business,Nigeria,Firearms
+2015,Sep,Fri,0,Kaduna,Buruku,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Oct,Fri,1,Zamfara,Birnin Yero,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2008,Jun,Sat,0,Lagos,Lagos,Armed Assault,Military,Nigeria,Melee
+2019,Dec,Fri,0,Borno,Kareto,Unknown,Military,Nigeria,Unknown
+2012,Sep,Sun,1,Delta,Unknown,Hostage Taking (Kidnapping),Government (General),Nigeria,Explosives
+2021,Jun,Sun,1,Ogun,Iraye,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2016,Feb,Sat,1,Bayelsa,Igbomotoru,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2014,Feb,Thu,0,Plateau,Rapyem,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Jan,Fri,0,Adamawa,Mubi,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2008,Sep,Wed,0,Rivers,Port Harcourt,Bombing/Explosion,Business,Nigeria,Explosives
+2020,May,Mon,0,Borno,Konduga,Bombing/Explosion,Terrorists/Non-State Militia,Nigeria,Explosives
+2017,Sep,Fri,0,Niger,Yakpa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Dec,Mon,0,Bauchi,Bauchi,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2016,Feb,Sat,0,Borno,Ajiri,Bombing/Explosion,Military,Nigeria,Explosives
+2011,Sep,Sun,0,Borno,Jere,Armed Assault,Government (General),Nigeria,Firearms
+2019,Feb,Sun,0,Borno,Banki,Unknown,Military,Nigeria,Unknown
+2015,Mar,Tue,0,Borno,Njaba,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Feb,Thu,0,Borno,Maiduguri,Hostage Taking (Barricade Incident),Educational Institution,Nigeria,Incendiary
+2013,Mar,Fri,0,Borno,Maiduguri,Bombing/Explosion,Police,Nigeria,Explosives
+2008,Jul,Tue,0,Ebonyi,Abakaliki,Armed Assault,Journalists & Media,Nigeria,Firearms
+2014,Apr,Thu,0,Osun,Osogbo,Bombing/Explosion,Business,Nigeria,Explosives
+2021,May,Sat,0,Imo,Izombe,Armed Assault,Police,Nigeria,Firearms
+2014,Jun,Fri,0,Borno,Mainok,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Aug,Tue,0,Borno,Mirga,Facility/Infrastructure Attack,Telecommunication,Nigeria,Firearms
+2012,Jun,Sun,0,Borno,Konduga,Bombing/Explosion,Police,Nigeria,Explosives
+2012,Jan,Fri,0,Kano,Kano,Bombing/Explosion,Police,Nigeria,Explosives
+2014,Dec,Wed,1,Bayelsa,Nembe district,Hostage Taking (Kidnapping),Maritime,Nigeria,Firearms
+2007,Feb,Sun,1,Bayelsa,Unknown,Hostage Taking (Kidnapping),Utilities,Nigeria,Firearms
+2012,May,Wed,0,Adamawa,Unknown,Facility/Infrastructure Attack,Telecommunication,Nigeria,Incendiary
+2018,Sep,Thu,0,Adamawa,Nzomosu,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2012,May,Sun,0,Borno,Maiduguri,Bombing/Explosion,Military,Nigeria,Explosives
+2005,May,Thu,0,Bauchi,Nabordo,Armed Assault,Utilities,Nigeria,Firearms
+2017,Mar,Thu,0,Benue,Ayati,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2010,Aug,Sun,1,Edo,Benin City,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2017,Aug,Fri,0,Borno,Dikwa district,Bombing/Explosion,Military,Nigeria,Explosives
+2016,May,Mon,0,Anambra,Unknown,Unknown,Military,Nigeria,Unknown
+2020,Jun,Sat,0,Borno,Monguno,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2015,May,Thu,0,Zamfara,Chigama,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jun,Thu,0,Adamawa,Yaza,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Jan,Sat,0,Borno,Maiduguri,Facility/Infrastructure Attack,Religious Figures/Institutions,Nigeria,Incendiary
+2013,Jan,Fri,0,Delta,Obomkpa,Assassination,Government (General),Nigeria,Explosives
+2019,Sep,Mon,1,Borno,Garunda,Armed Assault,Military,Nigeria,Explosives
+2012,Jun,Sat,0,Borno,Gamboru,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2018,Aug,Thu,0,Delta,Unenurhie,Assassination,Private Citizens & Property,Nigeria,Firearms
+2015,Apr,Wed,0,Benue,Katsina Ala,Assassination,Police,Nigeria,Firearms
+2010,Mar,Mon,0,Delta,Warri,Bombing/Explosion,Government (General),Nigeria,Explosives
+2020,Oct,Fri,0,Borno,Tungushe,Armed Assault,Military,Nigeria,Firearms
+2015,Mar,Sun,0,Bauchi,Kirfi district,Armed Assault,Police,Nigeria,Firearms
+2018,Jul,Mon,0,Ogun,Loburo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jan,Fri,0,Bayelsa,Yenagoa,Bombing/Explosion,Transportation,Nigeria,Explosives
+2012,Apr,Mon,0,Nasarawa,Akwanga,Armed Assault,Police,Nigeria,Firearms
+2017,Aug,Thu,0,Ondo,Ore,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Melee
+2021,Feb,Tue,0,Delta,Ugbolu,Armed Assault,Police,Nigeria,Firearms
+2017,Dec,Mon,0,Benue,Abaji,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2015,Sep,Wed,0,Borno,Sandia,Bombing/Explosion,Unknown,Nigeria,Explosives
+2012,Dec,Thu,0,Adamawa,Madagali,Facility/Infrastructure Attack,Police,Nigeria,Incendiary
+2012,Oct,Sat,0,Borno,Hausari,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2008,Jun,Thu,0,Unknown,Unknown,Facility/Infrastructure Attack,Utilities,Nigeria,Unknown
+2019,Jan,Thu,1,Borno,Unknown,Hostage Taking (Kidnapping),Government (General),Nigeria,Unknown
+2013,Jun,Sat,1,Benue,Mballagh,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2020,Jun,Wed,0,Plateau,Wereng,Assassination,Government (General),Nigeria,Firearms
+2019,Oct,Thu,0,Kaduna,Gerti,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Tue,0,Rivers,Okrika,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,May,Wed,0,Borno,Balile,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Dec,Wed,0,Borno,Konduga district,Bombing/Explosion,Military,Nigeria,Explosives
+2014,Jun,Sun,0,Borno,Gwoza,Bombing/Explosion,Military,Nigeria,Explosives
+2020,Dec,Sun,1,Katsina,Funtua,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2015,Jan,Wed,0,Borno,Biu,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2014,Mar,Sat,1,Benue,Olegaje,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2009,Jul,Mon,0,Borno,Maiduguri,Unknown,Police,Nigeria,Unknown
+2014,Apr,Mon,0,Borno,Mafa,Assassination,Private Citizens & Property,Nigeria,Firearms
+2020,Nov,Sat,0,Delta,Unknown,Bombing/Explosion,Utilities,Nigeria,Explosives
+2018,Dec,Tue,0,Benue,Agboughul,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Feb,Mon,1,Bauchi,Darazo,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2016,Nov,Mon,0,Borno,Dasa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Aug,Tue,0,Borno,Biu,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2009,Jun,Wed,0,Bayelsa,Agoro,Bombing/Explosion,Business,Netherlands,Explosives
+2017,Mar,Thu,1,Borno,Pulka,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2017,Sep,Sat,0,Borno,Bama,Bombing/Explosion,Unknown,Nigeria,Explosives
+2007,May,Fri,0,Ondo,Riverine,Hostage Taking (Kidnapping),Government (General),Nigeria,Unknown
+2014,Sep,Wed,0,Kaduna,Karshi Daji,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Jul,Mon,0,Borno,Mammanti,Bombing/Explosion,Military,Nigeria,Explosives
+2019,Jun,Mon,0,Kaduna,Kikoba,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jul,Mon,0,Yobe,Damaturu,Bombing/Explosion,Police,Nigeria,Explosives
+2020,Dec,Sun,0,Borno,Mafa,Bombing/Explosion,Military,Nigeria,Explosives
+2015,Mar,Fri,0,Borno,Maiduguri,Bombing/Explosion,Business,Nigeria,Explosives
+2007,Feb,Wed,0,Rivers,Unknown,Hostage Taking (Kidnapping),Private Citizens & Property,Lebanon,Firearms
+2012,Oct,Sun,0,Bauchi,Yelwa,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2017,Oct,Thu,1,Ekiti,Oye,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2015,Jun,Thu,0,Kaduna,Jemaa district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Jan,Wed,1,Yobe,Geidam,Hostage Taking (Kidnapping),Military,Nigeria,Firearms
+2015,Sep,Thu,0,Rivers,Omoku,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2007,Mar,Sat,1,Unknown,Unknown,Hostage Taking (Kidnapping),Business,Great Britain,Unknown
+2016,Oct,Sat,0,Kaduna,Godogodo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Nov,Tue,0,Borno,Maiduguri,Armed Assault,Military,Nigeria,Firearms
+2015,Apr,Sun,0,Delta,Ukah,Facility/Infrastructure Attack,Utilities,Nigeria,Unknown
+2012,Dec,Fri,0,Borno,Musari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Apr,Mon,0,Yobe,Damaturu,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2012,Jan,Tue,0,Borno,Maiduguri,Bombing/Explosion,Military,Nigeria,Explosives
+2020,Sep,Sun,0,Plateau,Ncha,Unknown,Private Citizens & Property,Nigeria,Unknown
+2019,Mar,Tue,0,Benue,Tse Uoreleyev,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jun,Thu,0,Bayelsa,Nembe,Facility/Infrastructure Attack,Utilities,Nigeria,Sabotage Equipment
+2012,Mar,Fri,0,Borno,Askira Uba,Unknown,Business,Nigeria,Unknown
+2012,Oct,Sat,0,Yobe,Potiskum,Armed Assault,Government (General),Nigeria,Firearms
+2015,Feb,Fri,0,Abuja,Kubwa,Armed Assault,Police,Nigeria,Firearms
+2017,Nov,Fri,0,Anambra,Onitsha North district,Bombing/Explosion,Unknown,Nigeria,Explosives
+2021,Feb,Tue,0,Anambra,Oba,Armed Assault,Private Citizens & Property,Nigeria,Incendiary
+2021,Jun,Sun,0,Plateau,Zogu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Sat,1,Kogi,Adavi district,Hostage Taking (Kidnapping),Government (General),Nigeria,Unknown
+2019,Oct,Tue,0,Borno,Dikwa district,Unknown,Military,Nigeria,Unknown
+2020,Dec,Mon,1,Yobe,Gumsa,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2018,Oct,Wed,0,Kaduna,Kakuri,Armed Assault,Police,Nigeria,Firearms
+2014,May,Wed,0,Bauchi,Shedarki,Facility/Infrastructure Attack,Educational Institution,Nigeria,Firearms
+2019,Mar,Sun,1,Borno,Kaga district,Unknown,Military,Nigeria,Unknown
+2020,Aug,Sun,0,Kaduna,Kitsarapang,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Aug,Thu,0,Kaduna,Juji,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2009,Jul,Tue,0,Rivers,Unknown,Bombing/Explosion,Utilities,Italy,Explosives
+2017,Sep,Tue,0,Borno,Dikwa,Bombing/Explosion,Unknown,Nigeria,Explosives
+2011,May,Sun,0,Bauchi,Bauchi,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2017,Feb,Sat,1,Nasarawa,Akwanga district,Assassination,Private Citizens & Property,Nigeria,Firearms
+2018,Jan,Tue,0,Borno,Guzamala district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jan,Mon,0,Oyo,Olanla,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jun,Tue,0,Taraba,Wukari,Armed Assault,Police,Nigeria,Firearms
+2018,Jul,Sat,1,Yobe,Jilli,Armed Assault,Military,Nigeria,Firearms
+2021,Apr,Thu,0,Nasarawa,Angwan Yari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Jan,Sun,0,Adamawa,Madagali,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Mar,Thu,0,Imo,Umuaka,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Jul,Tue,0,Borno,Kesawa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jun,Tue,0,Benue,Logo district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Sep,Sat,1,Lagos,Lagos,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2012,Jun,Sun,0,Kaduna,Zaria,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2021,Apr,Thu,0,Nasarawa,Dooga,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Sat,0,Benue,Agenke,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Mar,Tue,0,Kaduna,Unknown,Assassination,Government (General),Nigeria,Firearms
+2012,Jul,Sun,0,Lagos,Egbeda,Assassination,Police,Nigeria,Firearms
+2013,Oct,Tue,0,Borno,Goniri,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2019,Nov,Sun,0,Kaduna,Iri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jul,Sun,1,Katsina,Jibia district,Armed Assault,Military,Nigeria,Firearms
+2020,Feb,Sun,0,Borno,Kauwa,Bombing/Explosion,Unknown,Nigeria,Explosives
+2012,Feb,Sun,0,Adamawa,Shuwa,Bombing/Explosion,Police,Nigeria,Explosives
+2014,Nov,Sun,0,Ekiti,Ado-Ekiti,Bombing/Explosion,Police,Nigeria,Explosives
+2011,Sep,Sun,0,Borno,Mainok,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2014,Dec,Fri,0,Yobe,Damagun,Bombing/Explosion,Government (Diplomatic),International,Explosives
+2016,Nov,Fri,0,Borno,Maiduguri,Bombing/Explosion,Terrorists/Non-State Militia,Nigeria,Explosives
+2014,May,Wed,0,Taraba,Bali district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Jan,Sun,0,Unknown,Unknown,Unknown,Private Citizens & Property,Nigeria,Unknown
+2018,Sep,Thu,0,Adamawa,Bukuto,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2018,Jan,Wed,0,Borno,Kofa,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2019,Oct,Sat,0,Borno,Gajiganna,Armed Assault,Military,Nigeria,Firearms
+2019,Jul,Sun,0,Rivers,Choba,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2012,Mar,Sat,0,Kaduna,Sabon-Gari,Bombing/Explosion,Business,Nigeria,Explosives
+2021,Jun,Fri,0,Imo,Ehime-Mbano district,Armed Assault,Police,Nigeria,Firearms
+2014,Jan,Sat,0,Kaduna,Kaura,Armed Assault,Business,China,Firearms
+2018,Mar,Tue,0,Benue,Tse Orogbo,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2019,Mar,Tue,0,Nasarawa,Nidam,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2020,Mar,Mon,1,Delta,Okpanam,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2021,Jun,Thu,0,Zamfara,Tungar-Rogo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Aug,Sat,0,Borno,Mairari,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2004,Aug,Sun,0,Rivers,Port Harcourt,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Nov,Wed,0,Kano,Kano,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Oct,Thu,0,Yobe,Potiskum,Bombing/Explosion,Police,Nigeria,Explosives
+2016,May,Wed,0,Borno,Akwada,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2011,Sep,Thu,0,Niger,Suleja,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jul,Sun,0,Borno,Biu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Jun,Sun,0,Borno,Kamuya,Armed Assault,Military,Nigeria,Firearms
+2015,Mar,Thu,0,Kano,Kano,Bombing/Explosion,Transportation,Nigeria,Explosives
+2008,Jun,Thu,0,Unknown,Unknown,Hostage Taking (Kidnapping),Maritime,United States,Unknown
+2016,Mar,Thu,0,Rivers,Tai district,Assassination,Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Sat,0,Benue,Tse Abi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jun,Tue,1,Borno,Kautikari,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2016,Oct,Thu,0,Kaduna,Kaninkon,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Aug,Thu,0,Borno,Zaro,Armed Assault,Military,Nigeria,Firearms
+2011,May,Sun,0,Kaduna,Zaria,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Sep,Wed,0,Benue,Logo district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Oct,Sat,0,Plateau,Rahol Gasa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,May,Wed,0,Taraba,Rafin Kada,Unknown,Religious Figures/Institutions,Nigeria,Unknown
+2014,Feb,Tue,1,Delta,Kiagbodo,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2014,Oct,Thu,0,Borno,Gulumba Gana,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2016,May,Fri,0,Ekiti,Oke-Ako,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,May,Mon,0,Adamawa,Yola,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Jul,Fri,0,Lagos,Ikorodu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Sat,0,Borno,Malari,Bombing/Explosion,Military,Nigeria,Explosives
+2016,Oct,Thu,0,Kaduna,Kaura district,Armed Assault,Police,Nigeria,Firearms
+2007,Sep,Thu,0,Unknown,Unknown,Hostage Taking (Kidnapping),Business,Italy,Firearms
+2016,Nov,Tue,0,Borno,Boftari,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2012,Sep,Tue,0,Yobe,Buni Yadi,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2016,May,Fri,0,Benue,Aondo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jul,Wed,0,Kaduna,Kaduna,Assassination,Religious Figures/Institutions,Nigeria,Explosives
+2014,Jul,Tue,0,Kano,Kwankwaso,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2018,Apr,Thu,0,Borno,Mainari Shuwa,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2019,May,Mon,1,Osun,Esa Odo,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2014,Dec,Sat,0,Borno,Gudugum,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2016,Nov,Sun,1,Lagos,Igbodu,Hostage Taking (Kidnapping),Transportation,Nigeria,Firearms
+2016,Oct,Mon,0,Benue,Gaambe-Tiev,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jul,Wed,0,Borno,Ngala,Bombing/Explosion,Transportation,Nigeria,Explosives
+2014,Jun,Sun,0,Borno,Garkida,Bombing/Explosion,Transportation,Nigeria,Explosives
+2021,Sep,Thu,1,Yobe,Geidam,Hostage Taking (Kidnapping),Military,Nigeria,Firearms
+2017,Jul,Mon,0,Borno,Magumeri,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Melee
+2009,Feb,Tue,0,Bayelsa,Nembe,Facility/Infrastructure Attack,Business,Nigeria,Unknown
+2017,Sep,Wed,0,Adamawa,Humbli,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jun,Mon,0,Kaduna,Kurmin-Masara,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Mar,Fri,0,Borno,Maiduguri,Bombing/Explosion,Educational Institution,Nigeria,Explosives
+2017,Feb,Mon,0,Kaduna,Rafin Dadi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Sep,Sat,0,Plateau,Ancha,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Sep,Tue,0,Delta,Shalomi Creek,Bombing/Explosion,Utilities,Nigeria,Explosives
+2018,Jun,Mon,1,Delta,Abraka,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2014,Aug,Sat,1,Rivers,Unknown,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2018,Apr,Fri,0,Plateau,Tanjol,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Mar,Wed,0,Borno,Miringa,Armed Assault,Military,Nigeria,Firearms
+2017,Jun,Mon,0,Adamawa,Tsamiya,Bombing/Explosion,Unknown,Nigeria,Explosives
+2014,Oct,Sat,1,Adamawa,Waga Mangoro,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2018,Feb,Fri,0,Plateau,Unknown,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Oct,Wed,0,Yobe,Potiskum,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2014,Oct,Sat,0,Adamawa,Pina,Armed Assault,Private Citizens & Property,Nigeria,Incendiary
+2014,Jul,Thu,0,Borno,Monguno,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2017,Jan,Fri,0,Borno,Kangarwa,Armed Assault,Military,Nigeria,Explosives
+2021,Jan,Sat,0,Benue,Zongo,Armed Assault,Military,Nigeria,Firearms
+2014,Oct,Fri,0,Gombe,Gombe,Bombing/Explosion,Transportation,Nigeria,Explosives
+2018,Nov,Fri,1,Borno,Mitile,Hostage Taking (Kidnapping),Military,Nigeria,Unknown
+2013,Mar,Sat,0,Borno,Fadagwai,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,May,Sun,0,Imo,Umueze Obiangwu,Assassination,Private Citizens & Property,Nigeria,Firearms
+2015,Nov,Sun,0,Yobe,Potiskum,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2017,Jun,Wed,0,Borno,Mussini,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Jan,Sat,0,Borno,Bulunkutu,Armed Assault,Business,Nigeria,Firearms
+2015,Jun,Mon,0,Akwa Ibom,Oron,Armed Assault,Police,Nigeria,Firearms
+2014,Jul,Thu,0,Plateau,Afang,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Dec,Thu,0,Plateau,Kassa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,May,Tue,0,Kaduna,Aunguan Guida,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jul,Mon,0,Yobe,Katarko,Armed Assault,Military,Nigeria,Explosives
+2019,Dec,Mon,0,Adamawa,Magar,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jan,Mon,0,Rivers,Port Harcourt,Bombing/Explosion,Unknown,Nigeria,Explosives
+2014,Jul,Tue,0,Yobe,Potiskum,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2019,Apr,Tue,0,Zamfara,Bini,Unknown,Military,Nigeria,Unknown
+2012,Aug,Wed,0,Yobe,Damaturu,Armed Assault,Military,Nigeria,Firearms
+2018,Apr,Sun,0,Benue,Logo district,Armed Assault,Military,Nigeria,Firearms
+2007,Apr,Tue,0,Kano,Kano,Armed Assault,Police,Nigeria,Firearms
+2016,Mar,Sun,0,Benue,Abiam Koya,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Mar,Tue,0,Yobe,Geidam,Bombing/Explosion,Military,Nigeria,Explosives
+2013,Jan,Sat,0,Kogi,Abobo,Bombing/Explosion,Military,Nigeria,Explosives
+2010,Jun,Sun,1,Rivers,Igbo-Etche,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+1994,Aug,Sat,0,Lagos,Lagos,Bombing/Explosion,Government (General),Nigeria,Explosives
+2021,Dec,Sun,0,Akwa Ibom,Utu Etim Ekpo,Armed Assault,Police,Nigeria,Firearms
+2010,Dec,Fri,0,Plateau,Jos,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2019,Apr,Wed,0,Adamawa,Bolon,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Sat,0,Yobe,Ngamdu,Bombing/Explosion,Transportation,Nigeria,Explosives
+2012,May,Wed,0,Borno,Maiduguri,Facility/Infrastructure Attack,Telecommunication,Nigeria,Incendiary
+2012,Dec,Fri,0,Adamawa,Maiha,Armed Assault,Government (General),Nigeria,Explosives
+2019,Apr,Sun,0,Cross River,Ikot Effiom,Armed Assault,Government (General),Nigeria,Firearms
+2016,Jan,Sat,1,Borno,Dalori,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Explosives
+2021,Feb,Fri,0,Benue,Gwer West district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2008,Aug,Thu,0,Adamawa,Kalaa,Armed Assault,Government (General),Nigeria,Firearms
+2015,Jan,Sun,0,Borno,Monguno,Armed Assault,Military,Nigeria,Explosives
+2018,Dec,Sat,1,Ondo,Oba Akoko,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2015,Oct,Sat,1,Borno,Gwoza,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Melee
+2007,Feb,Fri,0,Rivers,Unknown,Hostage Taking (Kidnapping),Business,Italy,Firearms
+2013,Mar,Sat,1,Akwa Ibom,Okoroete,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2015,Aug,Tue,0,Yobe,Damaturu,Bombing/Explosion,Transportation,Nigeria,Explosives
+2019,Mar,Thu,0,Borno,Gatamarwa,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2011,Oct,Wed,0,Delta,Sapele,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2019,May,Fri,1,Yobe,Babban Gida,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Incendiary
+2020,Jul,Tue,0,Borno,Kautikari,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2018,Jan,Fri,0,Delta,Onicha-Olona,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Feb,Fri,0,Rivers,Botem,Armed Assault,Police,Nigeria,Firearms
+2017,Oct,Mon,0,Plateau,Kpachudu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Nov,Mon,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Unknown,Explosives
+2021,Apr,Tue,0,Benue,Markurdi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Jan,Mon,0,Borno,Maiduguri,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2013,Oct,Sun,0,Borno,Bama,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2014,Apr,Sun,0,Borno,Kumala,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2015,Oct,Sun,0,Borno,Maiduguri,Bombing/Explosion,Military,Nigeria,Explosives
+2011,Mar,Tue,0,Delta,Ughelli,Bombing/Explosion,Government (General),Nigeria,Explosives
+2021,Apr,Thu,0,Nasarawa,Zayol,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jun,Fri,0,Kogi,Okene,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2015,Sep,Tue,0,Taraba,Sarki-Kudu,Unknown,Private Citizens & Property,Nigeria,Unknown
+2015,Nov,Tue,0,Delta,Egwa,Bombing/Explosion,Utilities,Nigeria,Explosives
+2013,Jul,Mon,0,Kano,Kano,Bombing/Explosion,Business,Nigeria,Explosives
+2019,Aug,Thu,0,Borno,Kaleri-Abdule,Facility/Infrastructure Attack,Business,Nigeria,Incendiary
+2018,Apr,Wed,0,Benue,Agasha,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Oct,Mon,0,Borno,Damasak,Armed Assault,Military,Nigeria,Firearms
+2014,Aug,Sun,0,Jigawa,Sabon Garin Hyanbula,Facility/Infrastructure Attack,Religious Figures/Institutions,Nigeria,Incendiary
+2016,Jul,Mon,0,Plateau,Sha,Assassination,Private Citizens & Property,Nigeria,Firearms
+2019,Mar,Sun,0,Borno,Gubio,Unknown,Terrorists/Non-State Militia,Nigeria,Unknown
+2014,Jan,Sun,0,Borno,Alau,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Jan,Fri,1,Bayelsa,Brass,Hijacking,Maritime,Greece,Unknown
+2018,Jun,Wed,0,Plateau,Jon,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Melee
+2015,Jun,Fri,0,Borno,Takulashi,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2013,Sep,Sun,0,Plateau,Du,Armed Assault,Business,Nigeria,Firearms
+2015,Nov,Thu,1,Rivers,Port Harcourt district,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Unknown
+2017,Jul,Sun,0,Borno,Dalori,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2017,Feb,Sat,0,Plateau,Jos East district,Assassination,Private Citizens & Property,Nigeria,Firearms
+2014,Jun,Sat,1,Borno,Kummabza,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2015,Jul,Tue,0,Borno,Buratai,Unknown,Private Citizens & Property,Nigeria,Unknown
+2014,Jul,Mon,0,Kano,Kano,Bombing/Explosion,Business,Nigeria,Explosives
+2012,Jan,Fri,0,Kano,Kano,Bombing/Explosion,Government (General),Nigeria,Explosives
+2018,Jun,Mon,0,Plateau,Unknown,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2018,May,Tue,0,Nasarawa,Kaambe-Jangaru,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Mar,Mon,0,Kogi,Agbenema,Assassination,Private Citizens & Property,Nigeria,Incendiary
+2019,Jul,Wed,0,Plateau,Vatt,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Oct,Sat,1,Osun,Ileogbo,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2016,May,Tue,0,Borno,Jajeri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2021,Mar,Tue,0,Oyo,Eruwa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2003,Jul,Sun,1,Delta,Warri,Hostage Taking (Kidnapping),Business,Nigeria,Firearms
+2015,Jan,Tue,0,Gombe,Gombe,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2017,Jun,Sun,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2012,Apr,Thu,0,Borno,Maiduguri,Armed Assault,Government (General),Nigeria,Firearms
+2018,Jun,Tue,0,Plateau,Barakin Ladi district,Assassination,Government (General),Nigeria,Firearms
+2014,Jul,Thu,1,Yobe,Biriri,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2019,Nov,Sat,1,Plateau,Gindiri,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2015,Mar,Mon,0,Bauchi,Tafawa-Balewa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Dec,Thu,0,Borno,Unknown,Armed Assault,Police,Nigeria,Firearms
+2016,May,Thu,0,Delta,Warri,Bombing/Explosion,Utilities,Nigeria,Explosives
+2014,Jul,Tue,0,Borno,Marte district,Unknown,Private Citizens & Property,Nigeria,Unknown
+2016,Oct,Sat,0,Imo,Atta,Armed Assault,Police,Nigeria,Firearms
+2014,May,Thu,0,Borno,Makir,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Jun,Tue,0,Kogi,Koton-Karfe district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Apr,Mon,0,Yobe,Potiskum,Bombing/Explosion,Police,Nigeria,Explosives
+2016,Aug,Fri,0,Delta,Orhuwhorun,Bombing/Explosion,Utilities,Nigeria,Explosives
+2016,Jul,Fri,0,Delta,Odimodi,Hostage Taking (Barricade Incident),Utilities,Nigeria,Explosives
+2018,Aug,Wed,1,Borno,Kaje,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2015,Jul,Tue,0,Yobe,Ngamdu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Oct,Fri,0,Borno,Atagara,Facility/Infrastructure Attack,Religious Figures/Institutions,Nigeria,Firearms
+2015,Jul,Mon,0,Borno,Buratai,Unknown,Private Citizens & Property,Nigeria,Unknown
+2014,May,Tue,0,Borno,Alagarno,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Mar,Sun,0,Benue,Div-Nzaav,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2020,Jan,Fri,1,Kaduna,Maraban Rido,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2018,Jan,Sat,0,Plateau,Huke,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Apr,Tue,0,Adamawa,Michika,Unknown,Private Citizens & Property,Nigeria,Unknown
+2018,Mar,Wed,1,Kogi,Agojeju,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Feb,Tue,0,Borno,Maiduguri,Armed Assault,Military,Nigeria,Firearms
+2020,Apr,Sat,1,Delta,Issele-Mkpitime,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2012,Jun,Sun,0,Yobe,Damaturu,Armed Assault,Police,Nigeria,Firearms
+2017,Nov,Thu,0,Adamawa,Dowaya,Armed Assault,Police,Nigeria,Firearms
+2021,Jun,Thu,0,Borno,Rumirgo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,May,Mon,0,Yobe,Buni Yadi,Armed Assault,Military,Nigeria,Firearms
+2018,Nov,Tue,1,Borno,Daraa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Feb,Mon,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Oct,Mon,0,Borno,Unknown,Bombing/Explosion,Unknown,Nigeria,Explosives
+2007,Apr,Thu,0,Delta,Unknown,Armed Assault,Maritime,Multinational,Firearms
+2020,Oct,Sat,0,Yobe,Unknown,Unknown,Military,Nigeria,Unknown
+2011,Mar,Sun,0,Borno,Maiduguri,Armed Assault,Government (General),Nigeria,Firearms
+2018,Jun,Wed,1,Benue,Tse Shan,Armed Assault,Educational Institution,Nigeria,Firearms
+2014,Aug,Mon,0,Borno,Unknown,Armed Assault,Military,Nigeria,Firearms
+2017,Jan,Sun,0,Ogun,Unknown,Unknown,Private Citizens & Property,Nigeria,Unknown
+2016,Feb,Mon,0,Adamawa,Kuda,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Jul,Thu,0,Borno,Jakana,Armed Assault,Police,Nigeria,Firearms
+2019,Apr,Tue,0,Ekiti,Eda,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Oct,Mon,0,Borno,Gamboru,Bombing/Explosion,Unknown,Nigeria,Explosives
+2019,Jun,Sat,0,Borno,Kotori,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Mar,Thu,0,Plateau,Miango,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Incendiary
+2008,Jun,Thu,0,Rivers,Bonny district,Armed Assault,Military,Nigeria,Firearms
+2015,Dec,Mon,0,Adamawa,Madagali,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Sep,Wed,0,Benue,Logo district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2010,Apr,Mon,0,Edo,Benin City,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2018,Dec,Sat,0,Kaduna,Dangaji,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Mar,Thu,0,Borno,Damboa,Unknown,Military,Nigeria,Unknown
+2017,Nov,Sun,0,Plateau,Fakkos,Assassination,Private Citizens & Property,Nigeria,Firearms
+2016,Oct,Thu,0,Delta,Kurutie,Bombing/Explosion,Utilities,Nigeria,Explosives
+2016,May,Sun,0,Bayelsa,Gulobokri,Bombing/Explosion,Utilities,Nigeria,Explosives
+2016,May,Mon,0,Bayelsa,Yenagoa,Armed Assault,Police,Nigeria,Firearms
+2016,Dec,Wed,0,Benue,Tse Yough,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Feb,Tue,0,Borno,Maiduguri,Bombing/Explosion,Police,Nigeria,Explosives
+2015,Sep,Mon,0,Rivers,Port Harcourt,Bombing/Explosion,Unknown,Nigeria,Explosives
+2019,Nov,Sun,1,Enugu,Unknown,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2020,Mar,Tue,0,Kaduna,Manini,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Apr,Sun,0,Benue,Branch Umenger,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Jun,Sun,0,Imo,Ubulu-Ihejiofor,Facility/Infrastructure Attack,Government (General),Nigeria,Firearms
+2016,Feb,Tue,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Nigeria,Explosives
+2016,Jun,Mon,0,Benue,Abuul Norsua,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2010,May,Sun,0,Borno,Maiduguri,Assassination,Government (General),Nigeria,Firearms
+2017,Sep,Tue,0,Delta,Abraka,Armed Assault,Police,Nigeria,Firearms
+2021,Jul,Tue,1,Ogun,Iraye,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2017,Aug,Mon,1,Borno,Konduga,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2017,Nov,Tue,0,Borno,Maiduguri,Bombing/Explosion,Terrorists/Non-State Militia,Nigeria,Explosives
+2016,Feb,Sat,0,Bayelsa,Unknown,Bombing/Explosion,Utilities,Nigeria,Explosives
+2020,Jul,Thu,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Dec,Sun,0,Borno,Aduwari,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2014,Aug,Sun,0,Taraba,Wumban,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Wed,0,Delta,Oleh,Assassination,Private Citizens & Property,Nigeria,Firearms
+2015,Oct,Fri,0,Adamawa,Yola,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2016,Dec,Sun,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+1992,Dec,Sun,0,Lagos,Lagos,Assassination,Government (Diplomatic),Australia,Firearms
+2020,Sep,Fri,0,Borno,Korochara,Assassination,Government (General),Nigeria,Explosives
+2018,Oct,Wed,0,Borno,Mallumti,Unknown,Private Citizens & Property,Nigeria,Unknown
+2021,Dec,Sat,0,Ebonyi,Obodo Ocha,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Mar,Sat,0,Adamawa,Michika district,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Unknown
+2020,Jan,Thu,0,Ondo,Idoani,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2016,Sep,Mon,0,Rivers,Ahoada,Armed Assault,Police,Nigeria,Firearms
+2011,Feb,Mon,0,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,May,Fri,0,Borno,Boboshe,Unknown,Military,Nigeria,Unknown
+2020,Dec,Thu,1,Borno,Pemi,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2014,May,Mon,0,Yobe,Buni Yadi,Armed Assault,Police,Nigeria,Firearms
+2014,Oct,Mon,0,Nasarawa,Abulagu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,May,Fri,0,Delta,Warri,Bombing/Explosion,Utilities,Nigeria,Explosives
+2014,Mar,Wed,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2011,Nov,Fri,0,Bauchi,Bauchi,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2021,May,Sat,0,Benue,Tse Nyipila,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Tue,0,Benue,Mbanyiar,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jan,Sun,0,Benue,Ogwule,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Nov,Tue,0,Plateau,Katu Kapang,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,May,Sat,1,Delta,Issele-Azagba,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2019,Feb,Sat,0,Borno,Gajibo,Unknown,Military,Nigeria,Unknown
+2014,May,Wed,0,Plateau,Kuru district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Sep,Sun,0,Kaduna,Godogodo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Jul,Mon,0,Delta,Warri,Bombing/Explosion,Utilities,Nigeria,Explosives
+2020,Nov,Thu,0,Benue,Agasha,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Mar,Mon,0,Borno,Kumshe,Armed Assault,Police,Nigeria,Firearms
+2017,Oct,Wed,0,Borno,Maiduguri,Bombing/Explosion,Educational Institution,Nigeria,Explosives
+2015,Jan,Tue,0,Kaduna,Yangal Fadan,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Oct,Mon,0,Yobe,Potiskum,Armed Assault,Police,Nigeria,Firearms
+2012,Jan,Fri,0,Kano,Kano,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Feb,Mon,0,Gombe,Gombe,Bombing/Explosion,Government (General),Nigeria,Explosives
+2020,Mar,Wed,0,Kaduna,Kugosi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,May,Sun,0,Borno,Baga,Armed Assault,Military,Nigeria,Explosives
+2016,Apr,Wed,0,Delta,Ughelli,Assassination,Violent Political Party,Nigeria,Firearms
+2019,Dec,Tue,0,Borno,Chul,Unknown,Private Citizens & Property,Nigeria,Unknown
+2017,Aug,Tue,0,Borno,Maiduguri,Bombing/Explosion,Terrorists/Non-State Militia,Nigeria,Explosives
+2014,May,Sun,0,Kano,Kano,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2011,Jul,Sat,0,Plateau,Jos,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2007,Apr,Fri,0,Rivers,Port Harcourt,Armed Assault,Utilities,Unknown,Firearms
+2021,Sep,Sun,0,Anambra,Ozubulu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Apr,Thu,0,Nasarawa,Targema,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Aug,Mon,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Nigeria,Explosives
+2018,Sep,Wed,0,Benue,Mande Mbaawa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Mar,Tue,0,Kano,Tudun Wada,Armed Assault,Police,Nigeria,Firearms
+2021,Dec,Sat,0,Ebonyi,Otuebu Elebe,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Feb,Sat,0,Adamawa,Kwuapale,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Aug,Thu,0,Lagos,Akowonjo,Facility/Infrastructure Attack,Business,Nigeria,Incendiary
+2012,Feb,Wed,0,Niger,Lapai,Armed Assault,Police,Nigeria,Firearms
+2011,Aug,Sat,0,Bauchi,Unknown,Armed Assault,Police,Nigeria,Firearms
+2015,Jul,Wed,0,Borno,Burga,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Feb,Thu,0,Niger,Suleja,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2016,Jan,Thu,0,Delta,Warri South district,Bombing/Explosion,Utilities,Nigeria,Explosives
+2013,Jun,Fri,0,Nasarawa,Keffi,Armed Assault,Government (General),Nigeria,Firearms
+2018,Mar,Thu,1,Taraba,Muji,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2012,Oct,Thu,0,Borno,Maiduguri,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2015,Feb,Sun,0,Borno,Malari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,May,Wed,0,Delta,Ubulu-Uku,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jun,Tue,1,Kaduna,Chikun district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Aug,Fri,0,Kaduna,Shawa,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2014,Jul,Wed,0,Borno,Sabon Gari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Sun,0,Kaduna,Kaura district,Assassination,Private Citizens & Property,Nigeria,Firearms
+2020,Mar,Wed,0,Kaduna,Kajari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Jul,Fri,1,Delta,Sapele,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2012,Jul,Mon,0,Kaduna,Zaria,Armed Assault,Government (General),Nigeria,Firearms
+2014,Mar,Sun,0,Benue,Gbajimba,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,May,Sat,0,Borno,Dikwa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Nov,Tue,0,Benue,Tse Adoo,Assassination,Military,Nigeria,Firearms
+2020,Mar,Tue,0,Plateau,Gbra Zongo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2010,Nov,Thu,0,Plateau,Jos,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2016,Aug,Sat,0,Anambra,Ukpo,Bombing/Explosion,Police,Nigeria,Explosives
+2020,Jun,Wed,1,Borno,Kautikari,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2013,Oct,Mon,0,Benue,Nzorov,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Jan,Sun,0,Yobe,Babban Gida,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Sep,Thu,1,Borno,Limanti,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Incendiary
+2018,Feb,Mon,0,Borno,Maiduguri,Bombing/Explosion,Educational Institution,Nigeria,Explosives
+2018,Dec,Thu,0,Imo,Umuoke,Assassination,Police,Nigeria,Firearms
+2014,May,Fri,0,Borno,Askira,Bombing/Explosion,Military,Nigeria,Explosives
+2014,Mar,Thu,0,Borno,Agapalwa,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2017,Jan,Wed,0,Borno,Banki,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Jan,Tue,0,Zamfara,Unknown,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Aug,Fri,0,Taraba,Orawua,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Sep,Mon,1,Rivers,Port Harcourt,Hostage Taking (Kidnapping),Business,Nigeria,Unknown
+2018,Jul,Tue,1,Plateau,Josho,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Feb,Sat,0,Borno,Kafan Ruwa,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2017,Jul,Tue,0,Borno,Dala,Bombing/Explosion,Military,Nigeria,Explosives
+2008,Jan,Wed,1,Rivers,Port Harcourt,Hostage Taking (Kidnapping),Police,Nigeria,Firearms
+2018,Oct,Tue,1,Benue,Tse Akpam,Hostage Taking (Kidnapping),Police,Nigeria,Firearms
+2012,Mar,Thu,0,Yobe,Potiskum district,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2018,May,Tue,0,Abia,Isiala Ngwa South district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Nov,Fri,0,Borno,Umarari,Bombing/Explosion,Unknown,Nigeria,Explosives
+2015,Dec,Sat,0,Gombe,Gombe,Armed Assault,Business,Unknown,Firearms
+2021,Jun,Wed,0,Unknown,Unknown,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Mar,Sun,0,Benue,Mbawar,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Apr,Sun,0,Kano,Kano,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2012,Jun,Sat,0,Yobe,Damaturu,Facility/Infrastructure Attack,Other,Nigeria,Incendiary
+2013,Jul,Mon,0,Kano,Kano,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2012,Jun,Sat,0,Kano,Kurna Asabe,Bombing/Explosion,Government (General),Nigeria,Explosives
+2017,Dec,Sat,0,Borno,Konduga district,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Unknown
+2014,Jul,Wed,1,Yobe,Buni Yadi,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2017,Nov,Wed,0,Gombe,Daktibe Jaligo,Assassination,Private Citizens & Property,Nigeria,Firearms
+2021,Jan,Thu,0,Borno,Kwada Kwamtah Yahi,Bombing/Explosion,Military,Nigeria,Explosives
+2017,Nov,Sun,0,Borno,Dimge,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2018,Sep,Wed,0,Kano,Kano,Armed Assault,Government (General),Nigeria,Firearms
+2012,May,Sun,0,Kano,Kano,Armed Assault,Police,Nigeria,Firearms
+2013,Feb,Sun,0,Borno,Unknown,Armed Assault,Military,Niger,Firearms
+2014,Aug,Sun,0,Borno,Marte district,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2012,Aug,Fri,0,Borno,Maiduguri,Armed Assault,Military,Nigeria,Incendiary
+2020,May,Mon,0,Borno,Dakwaima,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jun,Fri,1,Ondo,Isua-Akoko,Hostage Taking (Kidnapping),Transportation,Nigeria,Firearms
+2021,May,Tue,1,Osun,Itikan,Hostage Taking (Kidnapping),Police,Nigeria,Firearms
+2018,Jan,Sat,0,Plateau,Kpara,Hostage Taking (Barricade Incident),Private Citizens & Property,Nigeria,Firearms
+2012,Feb,Wed,0,Borno,Maiduguri,Hostage Taking (Barricade Incident),Educational Institution,Nigeria,Firearms
+2014,Nov,Mon,0,Benue,Tse Akenyi,Assassination,Government (General),Nigeria,Firearms
+2021,Jan,Sun,0,Borno,Mussa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Nov,Wed,0,Adamawa,Wuna,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,May,Sun,0,Taraba,Gazabu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Jun,Mon,0,Ogun,Ibafo,Assassination,Government (General),Nigeria,Firearms
+2018,Jun,Sun,0,Plateau,Nghar,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Feb,Fri,0,Osun,Ile-ife,Bombing/Explosion,Unknown,Nigeria,Explosives
+2013,Sep,Sat,0,Kaduna,Zangang,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Mar,Sat,0,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Aug,Sun,0,Borno,Bitta,Bombing/Explosion,Unknown,Nigeria,Explosives
+2015,Sep,Fri,0,Borno,Buratai,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,May,Mon,0,Edo,Ubuneke-Ivbiaro,Hostage Taking (Barricade Incident),Private Citizens & Property,Nigeria,Melee
+2020,Mar,Fri,0,Benue,Chongu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Nov,Sat,0,Zamfara,Zurmi district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Jun,Wed,1,Ogun,Adeaga,Hostage Taking (Kidnapping),Business,China,Firearms
+2019,Jan,Wed,0,Taraba,Takum,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2006,Mar,Wed,1,Rivers,Port Harcourt,Hostage Taking (Kidnapping),Business,Germany,Firearms
+2018,Jun,Sun,0,Plateau,Rakok,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,May,Wed,0,Bauchi,Shedarki,Facility/Infrastructure Attack,Telecommunication,Nigeria,Firearms
+2014,Oct,Thu,0,Borno,Warabe,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jun,Sat,0,Yobe,Damaturu,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2015,Jan,Tue,0,Ebonyi,Abakaliki,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2019,Jul,Wed,0,Borno,Muna Dalti,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+1998,Apr,Fri,0,Lagos,Lagos,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2016,Mar,Thu,0,Rivers,Osuomini,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2010,Dec,Tue,0,Borno,Maiduguri,Armed Assault,Business,Nigeria,Firearms
+2019,Dec,Tue,1,Adamawa,Ganye,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2015,May,Thu,1,Rivers,Port Harcourt,Hostage Taking (Kidnapping),Violent Political Party,Nigeria,Unknown
+2017,Jun,Sun,0,Abuja,Abuja,Facility/Infrastructure Attack,Religious Figures/Institutions,Nigeria,Incendiary
+2017,Oct,Fri,1,Delta,Ndokwa West district,Hostage Taking (Kidnapping),Educational Institution,Nigeria,Firearms
+2016,Jun,Thu,0,Lagos,Ikorodu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Feb,Fri,0,Borno,Marte,Armed Assault,Military,Nigeria,Firearms
+2013,Mar,Mon,0,Borno,Maiduguri,Armed Assault,Educational Institution,Nigeria,Firearms
+2015,Jan,Sat,1,Adamawa,Shahu,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Incendiary
+2020,Feb,Sat,0,Borno,Rumirigo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Apr,Thu,1,Niger,Saho Rami,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2013,Jan,Thu,0,Kaduna,Birnin-Gwari,Armed Assault,Business,Nigeria,Explosives
+2013,Mar,Mon,0,Yobe,Gulani district,Facility/Infrastructure Attack,Telecommunication,Nigeria,Incendiary
+2015,Jul,Wed,1,Borno,Kukawa district,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2011,Dec,Sun,0,Plateau,Jos,Bombing/Explosion,Unknown,Nigeria,Explosives
+2016,Jun,Sat,0,Delta,Ughelli North district,Armed Assault,Police,Nigeria,Firearms
+2019,Aug,Wed,0,Benue,Oturkpo district,Hijacking,Religious Figures/Institutions,Nigeria,Firearms
+2014,Jun,Sat,0,Borno,Korongilum,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Mar,Mon,0,Delta,Ethiope East district,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2013,Sep,Sun,0,Borno,Benisheik,Armed Assault,Private Citizens & Property,Nigeria,Melee
+2012,Oct,Fri,0,Yobe,Potiskum,Unknown,Military,Nigeria,Unknown
+2012,Dec,Thu,0,Yobe,Potiskum,Armed Assault,Government (General),Nigeria,Firearms
+2014,Feb,Sun,0,Borno,Mairari,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2014,Sep,Wed,0,Borno,Konduga,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2018,Sep,Sun,0,Borno,Kekeno,Armed Assault,Military,Nigeria,Explosives
+2018,Aug,Thu,1,Cross River,Asari Eso Layout,Hostage Taking (Kidnapping),Violent Political Party,Nigeria,Firearms
+2016,Aug,Sun,0,Bayelsa,Unknown,Bombing/Explosion,Utilities,Nigeria,Explosives
+2016,Feb,Sun,0,Delta,Batan,Bombing/Explosion,Utilities,Nigeria,Explosives
+2019,Nov,Wed,0,Borno,Borgozo,Armed Assault,Military,Nigeria,Firearms
+2020,Feb,Sat,0,Borno,Bitta,Bombing/Explosion,Unknown,Nigeria,Explosives
+2021,Mar,Thu,1,Anambra,Aguleri,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2017,Mar,Wed,1,Niger,Lefu,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2006,Aug,Sat,0,Bayelsa,Brass,Facility/Infrastructure Attack,Business,Italy,Firearms
+1997,Aug,Wed,0,Osun,Ife,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Jun,Sat,0,Borno,Wala,Bombing/Explosion,Unknown,Nigeria,Explosives
+2015,Aug,Sat,0,Borno,Rumurigo,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2016,Mar,Sun,0,Benue,Unknown,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Nov,Thu,0,Borno,Sabon Gari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,May,Mon,0,Benue,Tse Ikyoor,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Oct,Sat,1,Taraba,Vaase,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Melee
+2018,Aug,Thu,0,Delta,Obomkpa,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2017,Mar,Wed,0,Benue,Tse Gyudu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Nov,Sat,0,Borno,Bama,Bombing/Explosion,Military,Nigeria,Explosives
+2012,May,Wed,0,Bauchi,Game,Bombing/Explosion,Telecommunication,Nigeria,Explosives
+2020,Nov,Sat,1,Kaduna,Kidugu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Dec,Fri,1,Anambra,Ayamelum district,Assassination,Government (General),Nigeria,Firearms
+2016,Mar,Sun,0,Benue,Mkpikpa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Apr,Sun,0,Borno,Belgeri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Mar,Sun,1,Akwa Ibom,Eket,Hostage Taking (Kidnapping),Business,Nigeria,Firearms
+2018,Feb,Mon,0,Borno,Malum Fatori,Armed Assault,Military,Nigeria,Firearms
+2019,Jun,Mon,0,Borno,Mafa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Jun,Tue,0,Delta,Okpanam,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2015,Jul,Thu,0,Delta,Ughelli North district,Bombing/Explosion,Utilities,Nigeria,Explosives
+2017,Jul,Sun,1,Borno,Khaddamari,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2015,Jul,Fri,0,Ekiti,Ado-Ekiti,Assassination,Violent Political Party,Nigeria,Firearms
+2021,Apr,Thu,0,Nasarawa,Dooga,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2006,Nov,Sun,0,Rivers,Port Harcourt,Hostage Taking (Kidnapping),Business,Italy,Unknown
+2018,Jun,Fri,0,Delta,Ughelli North district,Armed Assault,Government (General),Nigeria,Firearms
+2017,Feb,Sun,0,Borno,Biu,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2017,Mar,Thu,1,Bayelsa,Ekeremor district,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2014,Mar,Mon,1,Plateau,Bachit,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Nov,Tue,0,Benue,Vande Ikya district,Armed Assault,Police,Nigeria,Firearms
+2014,May,Wed,0,Taraba,Bali district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Tue,0,Taraba,Ungwan Kwalla,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jan,Fri,0,Kano,Kano,Bombing/Explosion,Unknown,Nigeria,Explosives
+2017,Sep,Fri,1,Bayelsa,Southern Ijaw district,Armed Assault,Maritime,Nigeria,Firearms
+2019,Feb,Fri,0,Borno,Zabarmari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,May,Mon,0,Yobe,Buni Yadi,Armed Assault,Government (General),Nigeria,Firearms
+2014,Jul,Thu,0,Plateau,Riyom district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Jan,Wed,0,Bauchi,Dass,Armed Assault,Police,Nigeria,Explosives
+2021,Jun,Wed,1,Borno,Unknown,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2021,Jun,Tue,1,Oyo,Araro,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2016,May,Sun,0,Bayelsa,Ogbembiri,Bombing/Explosion,Utilities,Nigeria,Explosives
+2015,Feb,Tue,0,Yobe,Potiskum,Bombing/Explosion,Transportation,Nigeria,Explosives
+2019,Dec,Sat,1,Delta,Issele Mkpitime,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2014,Oct,Thu,0,Borno,Ngoshe,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2014,Jan,Sun,1,Yobe,Damaturu,Hostage Taking (Kidnapping),Government (General),Nigeria,Explosives
+2019,May,Sun,0,Plateau,Jos,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Feb,Thu,0,Borno,Unknown,Bombing/Explosion,Unknown,Nigeria,Explosives
+2013,Jan,Wed,0,Gombe,Gombe,Armed Assault,Police,Nigeria,Firearms
+2012,Jan,Tue,0,Borno,Maiduguri,Armed Assault,Military,Nigeria,Firearms
+2012,Jul,Tue,0,Gombe,Ashaka,Armed Assault,Police,Nigeria,Firearms
+2012,Nov,Mon,0,Plateau,Barakin Ladi,Armed Assault,Business,Nigeria,Firearms
+2017,Jul,Sat,0,Yobe,Buni Yadi,Armed Assault,Military,Nigeria,Firearms
+2021,Dec,Sat,0,Ebonyi,Umu-Ugadu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+1997,Dec,Fri,0,Oyo,Ibadan,Bombing/Explosion,Military,Nigeria,Explosives
+2012,Jan,Fri,0,Kano,Kano,Bombing/Explosion,Police,Nigeria,Explosives
+2012,Mar,Thu,0,Jigawa,Birniwa,Armed Assault,Police,Nigeria,Explosives
+2015,Jul,Tue,0,Borno,Askira,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Mar,Tue,0,Cross River,Obio Usiere,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jul,Tue,0,Kaduna,Sanga district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Sat,0,Nasarawa,Agberagba,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Aug,Sun,1,Borno,Gajiram,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2020,Jul,Fri,0,Kaduna,Maraban Kagoro,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Dec,Mon,0,Edo,Isihor,Armed Assault,Educational Institution,Nigeria,Firearms
+2015,Aug,Sun,1,Ebonyi,Abakaliki,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2019,Jun,Mon,0,Borno,Ngamgam,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Nov,Wed,0,Ekiti,Afao,Assassination,Government (General),Nigeria,Firearms
+2015,Jul,Fri,0,Adamawa,Madagali,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Dec,Mon,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Nigeria,Explosives
+2019,Jan,Tue,0,Enugu,Awgu district,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2017,Jul,Fri,0,Lagos,Festac,Assassination,Private Citizens & Property,Nigeria,Firearms
+2015,Sep,Mon,0,Plateau,Zakupwang,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Sep,Wed,0,Taraba,Wukari district,Armed Assault,Business,Nigeria,Firearms
+2014,Jul,Sat,0,Borno,Gaidamgari,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2017,Apr,Tue,0,Enugu,Ogbete,Bombing/Explosion,Government (General),Nigeria,Explosives
+2016,Dec,Fri,1,Niger,Dan Mayan,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2014,Oct,Sat,1,Borno,Shaffa,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2020,Sep,Tue,0,Plateau,Kulben,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,May,Fri,0,Borno,Marte district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+1999,Oct,Sat,1,Delta,Warri,Hostage Taking (Kidnapping),Business,Multinational,Unknown
+2012,Jul,Thu,0,Borno,Maiduguri,Armed Assault,Military,Nigeria,Firearms
+2020,Jan,Tue,0,Borno,Kautikari,Unknown,Private Citizens & Property,Nigeria,Unknown
+2020,May,Wed,1,Kaduna,Ungwan Dantata,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,May,Thu,0,Katsina,Daura,Bombing/Explosion,Police,Nigeria,Explosives
+2019,May,Sat,0,Borno,Gajiganna,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Nov,Sun,0,Ebonyi,Abakaliki,Unknown,Government (General),Nigeria,Unknown
+2017,Jul,Tue,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Nigeria,Explosives
+2014,Dec,Thu,0,Niger,Kontagora,Bombing/Explosion,Educational Institution,Nigeria,Explosives
+1999,Feb,Sun,1,Unknown,Unknown,Hostage Taking (Kidnapping),Business,Great Britain,Unknown
+2013,Mar,Fri,0,Adamawa,Ganye,Armed Assault,Police,Nigeria,Explosives
+2021,Mar,Tue,0,Kogi,Iluke,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2012,Jul,Sun,0,Kogi,Obehira,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2013,May,Mon,1,Kaduna,Zangan Atakar,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Jan,Sun,0,Adamawa,Song,Armed Assault,Military,Nigeria,Firearms
+2018,Feb,Sun,0,Borno,Kofa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Oct,Thu,0,Borno,Shaffa,Unknown,Private Citizens & Property,Nigeria,Unknown
+2020,Jun,Tue,0,Borno,Kurmari,Unknown,Private Citizens & Property,Nigeria,Unknown
+2018,Mar,Tue,0,Zamfara,Zanuka,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Feb,Mon,0,Borno,Kangarwa,Unknown,Military,Nigeria,Unknown
+2020,Feb,Fri,0,Borno,Damasak,Armed Assault,Government (Diplomatic),International,Firearms
+2018,Sep,Sun,0,Bauchi,Bauchi,Facility/Infrastructure Attack,Violent Political Party,Nigeria,Incendiary
+2015,Sep,Wed,0,Benue,Logo district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Jan,Mon,0,Kano,Kano,Bombing/Explosion,Business,Nigeria,Explosives
+2015,Aug,Thu,0,Yobe,Kukuwa-Gari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Mon,0,Rivers,Isokpo,Bombing/Explosion,Government (General),Nigeria,Explosives
+2012,Nov,Sun,0,Gombe,Gombe,Bombing/Explosion,Unknown,Nigeria,Explosives
+2019,Apr,Mon,0,Borno,Baga,Bombing/Explosion,Military,International,Explosives
+2016,Dec,Thu,0,Borno,Rann,Bombing/Explosion,Unknown,Nigeria,Explosives
+2015,May,Sun,0,Benue,Tse Gusa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,May,Wed,0,Kano,Kano,Facility/Infrastructure Attack,Telecommunication,Nigeria,Incendiary
+2017,Aug,Tue,0,Delta,Abigborodo,Armed Assault,Military,Nigeria,Firearms
+2020,Apr,Fri,1,Delta,Issele-Azagba,Hostage Taking (Kidnapping),Business,Nigeria,Firearms
+2018,Jun,Sun,0,Plateau,Barakin Ladi district,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2018,Mar,Thu,0,Borno,Gamboru,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2020,May,Sat,0,Borno,Kwabula,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Wed,1,Adamawa,Gaya,Hostage Taking (Kidnapping),Government (General),Nigeria,Unknown
+2020,Jan,Thu,1,Borno,Dalwa,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2014,Jun,Sun,0,Borno,Karagau,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2011,Dec,Sun,0,Plateau,Jos,Bombing/Explosion,Unknown,Nigeria,Explosives
+2015,Feb,Mon,0,Rivers,Port Harcourt,Bombing/Explosion,Government (General),Nigeria,Explosives
+2015,Mar,Thu,0,Kogi,Dekina,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2008,Sep,Fri,1,Rivers,Port Harcourt,Hostage Taking (Kidnapping),Educational Institution,Asian,Firearms
+1997,Aug,Wed,0,Osun,Ife,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Apr,Fri,0,Borno,Auno,Assassination,Government (General),Nigeria,Firearms
+2014,Feb,Wed,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2012,Jul,Sun,0,Kano,Kano,Armed Assault,Business,Nigeria,Firearms
+2015,May,Sat,0,Adamawa,Ajiya Wagga,Unknown,Private Citizens & Property,Nigeria,Unknown
+2018,Dec,Mon,0,Yobe,Damaturu,Armed Assault,Military,Nigeria,Firearms
+2018,Jun,Sun,0,Borno,Dikwa district,Bombing/Explosion,Business,Nigeria,Explosives
+2021,Jun,Wed,0,Imo,Orsu district,Assassination,Private Citizens & Property,Nigeria,Firearms
+2015,Sep,Sun,0,Borno,Monguno,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2014,Sep,Thu,0,Borno,Shaffa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jan,Mon,0,Zamfara,Tangaran,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Sep,Mon,1,Enugu,Nsukka district,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2015,Mar,Sat,0,Taraba,Ananum,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Mar,Tue,1,Borno,Akalli,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2021,Apr,Fri,0,Benue,Tse Tugh,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Nov,Thu,0,Borno,Mussa,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2014,Feb,Tue,1,Yobe,Buni Yadi,Hostage Taking (Barricade Incident),Private Citizens & Property,Nigeria,Firearms
+2018,Jan,Sun,0,Plateau,Rahwol-Fwi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jan,Sun,0,Yobe,Potiskum,Bombing/Explosion,Transportation,Nigeria,Explosives
+2014,Apr,Sun,0,Bauchi,Yana,Facility/Infrastructure Attack,Police,Nigeria,Incendiary
+2015,Oct,Tue,1,Borno,Buraltuma,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Oct,Mon,0,Borno,Kawuri,Armed Assault,Terrorists/Non-State Militia,Nigeria,Explosives
+2014,Jan,Sat,0,Nasarawa,Assakio,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Feb,Thu,0,Niger,Minna,Bombing/Explosion,Police,Nigeria,Explosives
+2016,Apr,Sat,1,Enugu,Unknown,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2012,Mar,Sun,0,Kano,Kano,Armed Assault,Police,Nigeria,Firearms
+2012,Jun,Sat,0,Borno,Maiduguri,Bombing/Explosion,Business,Nigeria,Explosives
+2015,Jan,Fri,0,Borno,Tungushe,Armed Assault,Military,Nigeria,Explosives
+2014,Feb,Wed,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Mar,Sat,0,Borno,Bama,Unknown,Private Citizens & Property,Nigeria,Unknown
+2011,May,Sun,0,Abuja,Madalla,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2016,Sep,Mon,0,Borno,Sanda,Unknown,Business,Nigeria,Unknown
+2012,Feb,Mon,0,Borno,Maiduguri,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2014,Dec,Fri,0,Jigawa,Gwaram district,Bombing/Explosion,Military,Nigeria,Explosives
+2015,Dec,Mon,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Nigeria,Explosives
+2018,Mar,Sun,0,Bauchi,Toro,Assassination,Religious Figures/Institutions,Nigeria,Firearms
+2014,Jul,Sat,0,Borno,Shaffa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Thu,1,Ondo,Amurin,Hostage Taking (Kidnapping),Educational Institution,Nigeria,Firearms
+2011,Aug,Thu,0,Niger,Suleja,Bombing/Explosion,Government (General),Nigeria,Explosives
+2016,Sep,Fri,0,Rivers,Unknown,Bombing/Explosion,Utilities,Nigeria,Explosives
+2014,Oct,Tue,0,Borno,Damboa,Armed Assault,Military,Nigeria,Firearms
+2021,May,Sun,0,Anambra,Awka,Armed Assault,Utilities,Nigeria,Firearms
+2020,Feb,Wed,1,Borno,Bambula,Hostage Taking (Kidnapping),Terrorists/Non-State Militia,Nigeria,Firearms
+2013,Jan,Thu,0,Kaduna,Birnin-Gwari,Armed Assault,Business,International,Explosives
+2013,Feb,Wed,1,Borno,Unknown,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2016,Aug,Thu,0,Anambra,Afor-Igwe,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2011,Dec,Fri,0,Adamawa,Mubi,Bombing/Explosion,Business,Nigeria,Explosives
+2019,Jan,Sun,0,Borno,Shattimari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Jan,Fri,1,Borno,Dikwa,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2014,Jun,Thu,0,Borno,Ngohi,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2018,Jan,Wed,1,Katsina,Tsiga,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2017,May,Tue,1,Borno,Maiduguri,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Melee
+2008,Jul,Sat,1,Unknown,Unknown,Hostage Taking (Kidnapping),Maritime,Russia,Unknown
+2021,Feb,Tue,0,Borno,Marte,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2021,Feb,Fri,0,Borno,Mainok,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Wed,1,Edo,Egba,Hostage Taking (Kidnapping),Religious Figures/Institutions,Nigeria,Firearms
+2015,Oct,Tue,1,Borno,Koshifa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Dec,Fri,1,Niger,Dogongona,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2020,Dec,Sat,0,Kaduna,Idanu-Doka,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,May,Thu,0,Plateau,Rafin Bauna,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Apr,Mon,0,Abuja,Abuja,Bombing/Explosion,Transportation,Nigeria,Explosives
+2012,Jul,Sun,0,Kaduna,Ungwan Rimi,Armed Assault,Government (Diplomatic),International,Firearms
+2020,Oct,Sat,0,Borno,Unknown,Unknown,Military,Nigeria,Unknown
+2020,Jul,Sun,0,Kaduna,Manyii Kurum,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jul,Thu,1,Kaduna,Zaria,Hostage Taking (Kidnapping),Business,Nigeria,Firearms
+2017,Aug,Tue,1,Adamawa,Gidan Dadi,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2017,Aug,Mon,0,Ondo,Ilado,Facility/Infrastructure Attack,Government (General),Nigeria,Unknown
+2017,Apr,Sun,0,Borno,Ngawo Fato Bulamari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jul,Wed,0,Lagos,Lagos,Unarmed Assault,Police,United States,Melee
+2015,Jul,Wed,0,Gombe,Gombe,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2018,Jun,Sun,0,Borno,Fulatari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Mar,Sun,0,Benue,Gov,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Oct,Wed,0,Imo,Nworieubi,Armed Assault,Police,Nigeria,Firearms
+2012,Oct,Wed,0,Kano,Kano,Armed Assault,Government (General),Nigeria,Firearms
+2012,Nov,Wed,0,Borno,Rann,Facility/Infrastructure Attack,Government (General),Nigeria,Unknown
+2019,Jun,Mon,0,Taraba,Rafinkada,Unknown,Private Citizens & Property,Nigeria,Unknown
+2012,Jul,Sun,0,Kano,Kano,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2008,Jan,Wed,0,Rivers,Sand fill,Bombing/Explosion,Government (General),Nigeria,Explosives
+2014,Sep,Tue,1,Ebonyi,Ezza North district,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2008,Dec,Sat,0,Akwa Ibom,Ikot Abasi,Hostage Taking (Kidnapping),Business,Russia,Firearms
+2016,Nov,Wed,0,Borno,Huyum,Hostage Taking (Barricade Incident),Private Citizens & Property,Nigeria,Firearms
+2012,Mar,Tue,0,Kano,Kano,Armed Assault,Police,Nigeria,Firearms
+2018,Jun,Fri,0,Taraba,Maku,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Apr,Fri,0,Borno,Maiduguri,Bombing/Explosion,Government (General),Nigeria,Explosives
+2018,Jun,Tue,0,Borno,Rann,Armed Assault,Military,Nigeria,Firearms
+2012,Nov,Tue,0,Borno,Maiduguri,Assassination,Educational Institution,Nigeria,Firearms
+2019,Oct,Thu,0,Adamawa,Gulak,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2021,Feb,Sat,1,Delta,Emuhu,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2009,Jul,Mon,0,Borno,Maiduguri,Unknown,Educational Institution,Nigeria,Unknown
+2016,Oct,Tue,0,Delta,Warri South-West district,Bombing/Explosion,Utilities,Nigeria,Explosives
+2017,Jan,Tue,0,Kaduna,Zangon Kataf district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Nov,Mon,1,Delta,Oghara,Assassination,Violent Political Party,Nigeria,Firearms
+2016,Dec,Sat,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2017,Nov,Sat,0,Borno,Alakaramtii,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2019,Jun,Tue,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2012,Jan,Mon,0,Borno,Gambaru,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Oct,Wed,0,Plateau,Bangai,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Nov,Fri,0,Kano,Dakasoye,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2013,Mar,Fri,0,Adamawa,Song,Armed Assault,Police,Nigeria,Explosives
+2016,Jun,Mon,0,Borno,Maiduguri,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2021,Jun,Sun,0,Benue,Odugbeho,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Apr,Thu,0,Delta,Batan,Bombing/Explosion,Utilities,Nigeria,Explosives
+2018,Jun,Wed,0,Adamawa,Michika district,Unknown,Private Citizens & Property,Nigeria,Unknown
+2017,Jun,Sun,0,Borno,Kofa,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2014,Sep,Tue,0,Zamfara,Akuzo,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2015,May,Fri,0,Borno,Mule,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Mar,Sat,0,Katsina,Gafoni,Armed Assault,Government (General),Nigeria,Firearms
+2020,Sep,Tue,1,Borno,Auno,Hostage Taking (Kidnapping),Military,Nigeria,Firearms
+2015,Dec,Wed,0,Borno,Jere district,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2020,Jul,Fri,0,Kaduna,Zikpak,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Nov,Fri,0,Borno,Maiduguri,Bombing/Explosion,Business,Nigeria,Explosives
+2020,Sep,Mon,0,Plateau,Kpachudu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Mar,Wed,0,Oyo,Ibarapa East district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Nov,Mon,0,Abuja,Abuja,Armed Assault,Police,Nigeria,Firearms
+2018,Jan,Wed,0,Borno,Mandarari,Bombing/Explosion,Unknown,Nigeria,Explosives
+2013,Feb,Wed,0,Borno,Maiduguri,Bombing/Explosion,Military,Nigeria,Explosives
+2014,Apr,Mon,0,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,May,Sun,0,Ebonyi,Ugbuodo,Armed Assault,Police,Nigeria,Firearms
+2014,Feb,Sat,0,Borno,Izghe,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2014,Feb,Thu,0,Borno,Konduga,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Oct,Fri,0,Kano,Kano,Armed Assault,Government (General),Nigeria,Firearms
+2019,Apr,Wed,0,Cross River,Kakwagum,Assassination,Government (General),Nigeria,Firearms
+2014,May,Tue,0,Kaduna,Gora,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Apr,Wed,0,Borno,Maiduguri,Armed Assault,Police,Nigeria,Explosives
+2017,Aug,Wed,0,Yobe,Kamuya,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2016,Mar,Thu,0,Rivers,Abonnema,Armed Assault,Military,Nigeria,Firearms
+2014,Jan,Fri,0,Borno,Mainok,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2018,Jun,Fri,0,Taraba,Katibu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Mar,Fri,1,Ondo,Ilado,Hostage Taking (Kidnapping),Government (General),Nigeria,Unknown
+2015,Aug,Mon,0,Borno,Fatawe,Hostage Taking (Barricade Incident),Private Citizens & Property,Nigeria,Firearms
+2013,Oct,Thu,0,Borno,Maiduguri,Armed Assault,Government (General),Nigeria,Firearms
+2016,Jan,Wed,0,Borno,Chibok,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2019,Jul,Sun,0,Borno,Badu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,May,Mon,0,Benue,Unknown,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Dec,Mon,1,Kebbi,Birnin Kebbi,Hostage Taking (Kidnapping),Private Citizens & Property,Great Britain,Firearms
+2017,Nov,Thu,0,Plateau,Jol,Armed Assault,Business,Nigeria,Firearms
+2016,Oct,Sat,0,Adamawa,Madagali,Bombing/Explosion,Military,Nigeria,Explosives
+2016,Apr,Sun,1,Borno,Alau,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2012,Mar,Tue,0,Kano,Tudun Wada,Facility/Infrastructure Attack,Business,Nigeria,Incendiary
+2018,Jun,Sun,0,Plateau,Barakin Ladi district,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2019,Nov,Sat,1,Delta,Issele-Uku,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2016,Jul,Mon,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Nigeria,Explosives
+2012,Jan,Tue,0,Bayelsa,Unknown,Armed Assault,Police,Nigeria,Firearms
+2019,Mar,Sat,0,Abia,Isiala Ngwa South district,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2018,Apr,Sun,0,Nasarawa,Doma district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jan,Sun,0,Benue,Abogbe,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Apr,Thu,0,Kogi,Omala district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Jun,Sat,0,Borno,Banki,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Sep,Sun,0,Borno,Sabon Gari-Wajiroko,Unknown,Military,Nigeria,Unknown
+2015,May,Thu,0,Plateau,Jos,Bombing/Explosion,Business,Nigeria,Explosives
+2014,Feb,Tue,0,Borno,Kaga district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Jul,Fri,0,Niger,Bakin Iku,Unarmed Assault,Religious Figures/Institutions,Nigeria,Melee
+2010,Oct,Thu,1,Kwara,Ilorin,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2020,Feb,Tue,1,Borno,Ntsiha,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Aug,Fri,0,Delta,Owhrode,Bombing/Explosion,Utilities,Nigeria,Explosives
+2021,May,Fri,0,Benue,Mbakpa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Aug,Tue,0,Kaduna,Golkofa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,May,Wed,1,Kaduna,Etissi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jun,Tue,0,Borno,Nguwom,Armed Assault,Military,Nigeria,Explosives
+2021,Feb,Thu,1,Borno,Auno,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2018,Nov,Fri,0,Borno,Kekeno,Armed Assault,Military,Nigeria,Firearms
+2017,Nov,Wed,0,Borno,Muna Gari,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2016,Apr,Fri,0,Taraba,Tortondo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Feb,Sun,0,Borno,Shetimari,Bombing/Explosion,Military,Nigeria,Explosives
+2020,Mar,Sun,1,Kaduna,Ungwar Yaku,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2021,Dec,Fri,0,Yobe,Kukareta,Unknown,Military,Nigeria,Unknown
+2017,Jun,Sun,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2015,Mar,Thu,0,Borno,Ngala,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Dec,Sat,0,Kano,Kano,Bombing/Explosion,Business,India,Explosives
+2012,Jun,Fri,0,Yobe,Potiskum,Armed Assault,Police,Nigeria,Explosives
+2012,May,Thu,0,Borno,Maiduguri,Facility/Infrastructure Attack,Educational Institution,Nigeria,Firearms
+2014,Dec,Wed,0,Yobe,Maiduwa,Bombing/Explosion,Unknown,Nigeria,Explosives
+2019,Jan,Tue,0,Benue,Gbajimba,Facility/Infrastructure Attack,Business,Nigeria,Incendiary
+2018,Jun,Wed,0,Borno,Maiduguri,Bombing/Explosion,Military,Nigeria,Explosives
+2013,Dec,Sun,0,Anambra,Onitsha,Assassination,Journalists & Media,Nigeria,Firearms
+2019,Sep,Fri,0,Borno,Gajiram,Armed Assault,Military,Nigeria,Firearms
+1994,Sep,Fri,0,Kaduna,Kaduna,Bombing/Explosion,Government (General),Nigeria,Explosives
+2011,Oct,Sat,0,Plateau,Jos district,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2016,Oct,Thu,0,Borno,Gamboru,Bombing/Explosion,Military,Nigeria,Explosives
+2020,Mar,Mon,1,Borno,Gorgi,Hostage Taking (Kidnapping),Military,Nigeria,Explosives
+2020,Sep,Sat,1,Borno,Shengen,Hostage Taking (Kidnapping),Government (Diplomatic),International,Unknown
+2019,Dec,Sun,1,Katsina,Ruma,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2017,Feb,Thu,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Nigeria,Explosives
+2021,Jan,Mon,0,Akwa Ibom,Ikot Ukpong,Bombing/Explosion,Maritime,Nigeria,Explosives
+2011,Nov,Sat,0,Yobe,Geidam,Bombing/Explosion,Police,Nigeria,Explosives
+2014,May,Fri,0,Borno,Askira,Bombing/Explosion,Police,Nigeria,Explosives
+2018,Jun,Fri,0,Adamawa,Dowaya,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2016,Nov,Wed,0,Benue,Utukolugwu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Dec,Fri,0,Imo,Unknown,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2020,Jul,Sat,0,Borno,Chul,Armed Assault,Business,Nigeria,Firearms
+2017,May,Sun,0,Taraba,Kungana,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Feb,Mon,0,Enugu,Nkanu East district,Bombing/Explosion,Unknown,Nigeria,Explosives
+2019,Apr,Sun,0,Borno,Chibok,Bombing/Explosion,Military,Nigeria,Explosives
+2015,Sep,Thu,0,Adamawa,Balda,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2009,May,Thu,0,Akwa Ibom,Okon,Bombing/Explosion,Utilities,United States,Explosives
+2003,Nov,Wed,1,Unknown,Unknown,Hostage Taking (Kidnapping),Business,United States,Firearms
+2016,Nov,Tue,0,Borno,Kuburmbula,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2021,Jan,Sun,1,Borno,Magumeri,Hostage Taking (Kidnapping),Police,Nigeria,Explosives
+2015,Nov,Sun,0,Adamawa,Gulak,Armed Assault,Military,Nigeria,Explosives
+2019,Feb,Sat,0,Yobe,Gaidam,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2006,Oct,Thu,0,Rivers,Port Harcourt,Bombing/Explosion,Business,Nigeria,Explosives
+2019,Sep,Mon,0,Adamawa,Madagali district,Armed Assault,Military,Nigeria,Firearms
+2018,Mar,Thu,0,Taraba,Ussa district,Unknown,Private Citizens & Property,Nigeria,Unknown
+2019,Jun,Mon,0,Borno,Addamari,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2014,Jun,Sat,0,Borno,Ntsiha,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,May,Wed,0,Plateau,Ropp,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Sat,0,Taraba,Abbare,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Jan,Tue,0,Yobe,Kanama,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2017,Apr,Sat,0,Borno,Simari,Bombing/Explosion,Terrorists/Non-State Militia,Nigeria,Explosives
+2016,Oct,Fri,0,Delta,Ughelli,Bombing/Explosion,Utilities,Nigeria,Explosives
+2014,Sep,Sun,0,Borno,Monguno,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Apr,Thu,0,Yobe,Kanamma,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Sep,Wed,0,Benue,Logo district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jan,Mon,0,Plateau,Ruboi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jun,Sat,0,Yobe,Damaturu,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2012,Mar,Wed,0,Borno,Maiduguri,Armed Assault,Business,Nigeria,Firearms
+2017,Feb,Fri,0,Benue,Mbahimin,Armed Assault,Private Citizens & Property,Nigeria,Melee
+2015,Feb,Sun,0,Yobe,Potiskum,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2020,May,Sat,0,Katsina,Faru,Armed Assault,Government (General),Nigeria,Firearms
+2012,Jul,Wed,0,Adamawa,Mubi,Bombing/Explosion,Military,Nigeria,Explosives
+2014,Jun,Sun,0,Borno,Kautikiri,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2017,Nov,Wed,0,Adamawa,Kafin Hausa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+1996,Apr,Sat,0,Lagos,Lagos,Assassination,Government (General),Nigeria,Firearms
+2019,May,Thu,1,Edo,Akoko-Edo district,Hostage Taking (Kidnapping),Educational Institution,Nigeria,Firearms
+2019,Sep,Fri,0,Borno,Dikwa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Apr,Wed,0,Yobe,Bara,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Dec,Sun,0,Borno,Maina Hari,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2018,Jan,Wed,0,Benue,Guma district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Mar,Mon,0,Kaduna,Uduwa,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2021,Feb,Fri,0,Borno,Dikwa,Unknown,Military,Nigeria,Unknown
+2017,Apr,Sat,0,Borno,Maiduguri,Bombing/Explosion,Military,Nigeria,Explosives
+2015,Oct,Thu,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2019,Nov,Mon,0,Borno,Ala,Bombing/Explosion,Military,Nigeria,Explosives
+2012,Oct,Sun,0,Yobe,Potiskum,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2014,Jan,Wed,0,Borno,Unknown,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2020,Mar,Wed,0,Kogi,Nkyiedongwro,Unknown,Private Citizens & Property,Nigeria,Unknown
+2014,Aug,Mon,0,Borno,Gamboru,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2017,Dec,Tue,0,Delta,Ossissa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Aug,Thu,0,Borno,Unknown,Bombing/Explosion,Military,Nigeria,Explosives
+2020,Aug,Tue,0,Borno,Gajibo,Armed Assault,Military,Nigeria,Firearms
+2012,Aug,Wed,0,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2006,Oct,Tue,0,Unknown,Unknown,Hostage Taking (Kidnapping),Military,Nigeria,Firearms
+2016,Mar,Fri,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Nigeria,Explosives
+2016,Mar,Fri,1,Rivers,Asarama,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2019,May,Thu,0,Borno,Konduga district,Assassination,Government (General),Nigeria,Firearms
+2019,Feb,Tue,1,Kaduna,Unknown,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2003,Apr,Mon,0,Delta,Warri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Mon,0,Borno,Alau-Kofa,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2012,Jan,Fri,0,Kano,Kano,Bombing/Explosion,Government (General),Nigeria,Explosives
+2020,Aug,Thu,0,Borno,Mussine,Armed Assault,Military,Nigeria,Firearms
+2016,Apr,Fri,0,Taraba,Igo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,May,Sat,1,Plateau,Barakin Ladi,Hostage Taking (Kidnapping),Educational Institution,Nigeria,Firearms
+2021,Mar,Sat,0,Imo,Orji,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Oct,Wed,0,Yobe,Potiskum,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2011,Feb,Thu,0,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Dec,Mon,0,Delta,Ohoro,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Feb,Tue,1,Kaduna,Chibiya,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,May,Mon,0,Yobe,Buni Yadi,Armed Assault,Educational Institution,Nigeria,Firearms
+2015,Jan,Sun,0,Jigawa,Malam Maduri,Unknown,Military,International,Unknown
+2019,May,Thu,0,Anambra,Nnewi North district,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2018,Oct,Wed,0,Borno,Dalori,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Nov,Tue,0,Ogun,Owode-Ketu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Jul,Wed,0,Imo,Owerri,Armed Assault,Violent Political Party,Nigeria,Firearms
+2015,Jul,Sat,0,Borno,New Marte,Bombing/Explosion,Military,Nigeria,Explosives
+2012,Jun,Sat,0,Yobe,Damaturu,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2020,Jun,Sat,0,Benue,Kponko,Armed Assault,Military,Nigeria,Firearms
+2012,Aug,Tue,0,Plateau,Barkin Ladi district,Armed Assault,Government (General),Nigeria,Firearms
+2017,Nov,Wed,0,Borno,Muna Gari,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2014,Jul,Tue,0,Yobe,Potiskum,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2015,May,Fri,0,Katsina,Ruguji,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Aug,Tue,0,Borno,Bitta,Unknown,Military,Nigeria,Unknown
+2014,Jul,Sun,0,Adamawa,Garkida,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Nov,Thu,0,Bayelsa,Toru Orua,Armed Assault,Government (General),Nigeria,Firearms
+2016,Aug,Thu,0,Delta,Warri,Bombing/Explosion,Utilities,Nigeria,Explosives
+2007,Aug,Sat,0,Unknown,Unknown,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2013,Dec,Thu,0,Kaduna,Zangan Atakar,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2012,Oct,Wed,0,Yobe,Potiskum,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2008,Aug,Wed,1,Rivers,Port Harcourt,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2014,Dec,Thu,0,Benue,Kula,Unknown,Private Citizens & Property,Nigeria,Unknown
+2020,May,Wed,1,Kaduna,Ungwan Goshi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Jun,Sat,0,Benue,Ugondo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Mar,Sat,0,Adamawa,Gaya,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2009,Jul,Thu,0,Delta,Utorogu,Armed Assault,Business,Nigeria,Firearms
+2014,May,Sat,0,Borno,Nguro Soye,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2013,Feb,Tue,0,Borno,Maiduguri,Armed Assault,Military,Nigeria,Firearms
+2010,Dec,Fri,0,Borno,Maiduguri,Facility/Infrastructure Attack,Religious Figures/Institutions,Nigeria,Incendiary
+2016,Oct,Sat,0,Adamawa,Madagali,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Sep,Tue,0,Yobe,Buni Yadi,Armed Assault,Police,Nigeria,Firearms
+2012,Sep,Sun,0,Yobe,Yunusari,Bombing/Explosion,Police,Nigeria,Explosives
+2016,Apr,Thu,0,Delta,Warri,Bombing/Explosion,Utilities,Nigeria,Explosives
+2018,Mar,Thu,0,Borno,Gamboru,Bombing/Explosion,Unknown,Nigeria,Explosives
+2012,Dec,Fri,0,Zamfara,Rukudawa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jul,Tue,0,Kano,Kano,Bombing/Explosion,Educational Institution,Nigeria,Explosives
+2017,Apr,Fri,0,Borno,Kamuya,Armed Assault,Military,Nigeria,Explosives
+2020,Jan,Thu,0,Borno,Muna Dalti,Bombing/Explosion,Educational Institution,Nigeria,Explosives
+2015,Sep,Mon,0,Plateau,Zakupwang,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Sep,Thu,0,Borno,Shindiffu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Oct,Wed,1,Imo,Eke-Onuimo,Hostage Taking (Kidnapping),Transportation,Nigeria,Firearms
+2017,May,Sun,0,Niger,Etogi,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2016,Mar,Tue,0,Nasarawa,Okpaya,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Jun,Sat,0,Plateau,Mangu district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Aug,Sun,0,Borno,Faljari,Assassination,Military,Nigeria,Firearms
+2014,Feb,Mon,0,Nasarawa,Gidan Sule,Armed Assault,Private Citizens & Property,Nigeria,Incendiary
+2017,Oct,Mon,0,Plateau,Nkiedonwhro,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Feb,Sat,0,Delta,Ohoror,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Oct,Wed,0,Adamawa,Demsa district,Unknown,Private Citizens & Property,Nigeria,Unknown
+2019,Jan,Tue,0,Borno,Kimba,Unknown,Military,Nigeria,Unknown
+2021,Sep,Sun,0,Akwa Ibom,Ikot Odon,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2013,Nov,Sun,0,Borno,Maiduguri,Assassination,Violent Political Party,Nigeria,Firearms
+2019,Jun,Mon,0,Borno,Kukawa district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Nov,Wed,0,Plateau,Jos,Bombing/Explosion,Business,Nigeria,Explosives
+2014,Jun,Thu,0,Adamawa,Shuwari,Armed Assault,Private Citizens & Property,Nigeria,Incendiary
+2015,Aug,Sun,0,Kogi,Unknown,Assassination,Violent Political Party,Nigeria,Firearms
+2018,Feb,Thu,0,Benue,Tse Igbudu Taraka,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Mon,0,Bayelsa,Nembe district,Armed Assault,Police,Nigeria,Firearms
+2009,Feb,Tue,0,Akwa Ibom,Eket,Facility/Infrastructure Attack,Business,Nigeria,Firearms
+2014,Feb,Thu,0,Plateau,Rakok,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Aug,Tue,0,Borno,Konduga,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2018,May,Sun,0,Benue,Yoga,Hostage Taking (Barricade Incident),Private Citizens & Property,Nigeria,Firearms
+2019,Jan,Tue,0,Borno,Wajirko,Unknown,Military,Nigeria,Unknown
+2016,Oct,Mon,0,Benue,Obagaji,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Feb,Mon,0,Borno,Gulumba Gana,Unknown,Transportation,Nigeria,Unknown
+2021,Jul,Thu,1,Yobe,Geidam district,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2020,Dec,Thu,0,Katsina,Funtua district,Assassination,Private Citizens & Property,Nigeria,Firearms
+2017,Jul,Sun,0,Borno,Dalori,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2012,Sep,Tue,0,Borno,Dikwa,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2021,May,Tue,0,Imo,Umuoji,Armed Assault,Military,Nigeria,Firearms
+2014,Apr,Fri,0,Gombe,Nafada,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2017,Dec,Sun,0,Kaduna,Anguwan Mailafiya,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Jun,Wed,0,Benue,Ukemeragya,Unknown,Private Citizens & Property,Nigeria,Unknown
+2020,Jan,Sun,0,Plateau,Kwatas,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Oct,Wed,1,Unknown,Unknown,Hostage Taking (Kidnapping),Maritime,United States,Firearms
+2008,Jan,Tue,0,Rivers,Port Harcourt,Armed Assault,Police,Nigeria,Firearms
+2014,Jun,Tue,0,Borno,Ngamdu,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2007,Jan,Thu,0,Bayelsa,Sagbama,Hostage Taking (Kidnapping),Business,China,Firearms
+2005,Sep,Thu,0,Rivers,Akututuru district,Facility/Infrastructure Attack,Utilities,United States,Firearms
+2013,Jan,Wed,0,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Melee
+2018,Aug,Thu,0,Borno,Baga,Unknown,Military,Nigeria,Unknown
+2016,Dec,Sat,0,Borno,Gamboru,Facility/Infrastructure Attack,NGO,International,Incendiary
+2020,Jan,Mon,0,Plateau,Marish,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Aug,Mon,1,Benue,Jootar,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2016,May,Mon,0,Benue,Tse Atue,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Nov,Sat,0,Borno,Maiduguri,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2014,Jun,Sun,0,Kaduna,Tarbi,Unknown,Private Citizens & Property,Nigeria,Unknown
+2015,Dec,Sun,0,Borno,Maiduguri,Bombing/Explosion,Business,Nigeria,Explosives
+2018,Sep,Sat,0,Plateau,Riyom district,Unknown,Private Citizens & Property,Nigeria,Unknown
+2016,Mar,Thu,0,Rivers,Buguma,Armed Assault,Government (General),Nigeria,Firearms
+2015,Jan,Fri,0,Rivers,Ngo,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2016,Jun,Thu,0,Nasarawa,Obi district,Armed Assault,Religious Figures/Institutions,Nigeria,Melee
+2019,Oct,Wed,0,Borno,Kukawa district,Bombing/Explosion,Military,Nigeria,Explosives
+2015,Feb,Sat,0,Gombe,Gombe,Armed Assault,Government (General),Nigeria,Firearms
+2019,Mar,Tue,0,Borno,Magumeri,Unknown,Military,Nigeria,Unknown
+2014,Jul,Fri,0,Bauchi,Azare,Bombing/Explosion,Business,Nigeria,Explosives
+2016,Apr,Sat,0,Edo,Auchi,Assassination,Government (General),Nigeria,Firearms
+2014,Apr,Mon,0,Borno,Damboa,Armed Assault,Police,Nigeria,Explosives
+2017,May,Thu,0,Borno,Maiduguri,Bombing/Explosion,Educational Institution,Nigeria,Explosives
+2013,Dec,Sat,0,Kaduna,Madakiya,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Feb,Thu,0,Ebonyi,Ezza South district,Bombing/Explosion,Transportation,Nigeria,Explosives
+2012,May,Thu,0,Kano,Kano,Armed Assault,Police,Nigeria,Firearms
+2014,Jan,Mon,0,Borno,Wulgo,Armed Assault,Educational Institution,Nigeria,Firearms
+2020,Oct,Fri,0,Borno,Rann,Armed Assault,Military,Nigeria,Firearms
+2018,Apr,Wed,1,Benue,Abiam,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2020,Jul,Thu,0,Borno,Maiduguri,Bombing/Explosion,Business,Nigeria,Explosives
+2015,Dec,Sun,1,Borno,Mangari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Jan,Fri,1,Imo,Owerri,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Unknown
+2014,May,Tue,0,Plateau,Jos,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2014,Oct,Wed,0,Bauchi,Azare,Bombing/Explosion,Transportation,Nigeria,Explosives
+2011,Jan,Sun,0,Borno,Maiduguri,Assassination,Police,Nigeria,Firearms
+2018,Aug,Tue,0,Delta,Okpe district,Assassination,Government (General),Nigeria,Firearms
+2012,May,Wed,0,Borno,Maiduguri,Facility/Infrastructure Attack,Telecommunication,Nigeria,Incendiary
+2014,Mar,Mon,1,Plateau,Bachit,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Apr,Thu,0,Benue,Iye,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Sep,Tue,0,Nasarawa,Akwanga,Armed Assault,Military,Nigeria,Firearms
+2013,Jul,Fri,0,Borno,Bama,Armed Assault,Military,Nigeria,Firearms
+2014,Jan,Tue,0,Kaduna,Kaduna,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2021,Feb,Thu,0,Cross River,Calabar,Armed Assault,Police,Nigeria,Firearms
+2015,Apr,Tue,0,Kaduna,Jemaa district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jul,Fri,0,Adamawa,Yaffa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Nov,Fri,0,Kano,Kano,Bombing/Explosion,Business,Nigeria,Explosives
+2017,Jul,Wed,0,Borno,Mandirari,Bombing/Explosion,Terrorists/Non-State Militia,Nigeria,Explosives
+2016,Nov,Tue,0,Borno,Kwada,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Incendiary
+2018,Jun,Fri,0,Taraba,Lavoro,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Aug,Mon,0,Kaduna,Kajuru,Armed Assault,Police,Nigeria,Firearms
+2018,Apr,Sat,0,Borno,Gamboru,Armed Assault,Military,Nigeria,Explosives
+2009,May,Wed,0,Delta,Escravos,Bombing/Explosion,Business,Denmark,Explosives
+2014,Jan,Thu,1,Delta,Unknown,Hostage Taking (Kidnapping),Educational Institution,Nigeria,Firearms
+2012,Jan,Mon,0,Borno,Gomari,Armed Assault,Military,Nigeria,Firearms
+2011,Nov,Wed,0,Borno,Maiduguri,Bombing/Explosion,Unknown,Unknown,Explosives
+2012,Sep,Sat,0,Borno,Gajiganna,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2020,Jan,Mon,0,Oyo,Pade,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jun,Fri,0,Delta,Okpanam,Armed Assault,Terrorists/Non-State Militia,Nigeria,Firearms
+2019,Jun,Sat,0,Edo,Egoro Naoka,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2018,Nov,Mon,0,Zamfara,Malikawa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,May,Mon,1,Sokoto,Tara,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2012,Dec,Wed,1,Katsina,Rimi,Hostage Taking (Kidnapping),Business,France,Firearms
+2018,Dec,Sun,0,Plateau,Dorong,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Dec,Fri,0,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,Nov,Sun,0,Kaduna,Ungwan Magaji,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Mar,Thu,0,Kaduna,Bakin Kogi,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Nov,Thu,0,Borno,Unknown,Armed Assault,Military,Nigeria,Firearms
+2016,May,Mon,0,Borno,Malari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Aug,Wed,0,Borno,Abachari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jun,Sat,0,Yobe,Damaturu,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2016,Aug,Sat,1,Borno,Kubrrivu,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2012,Mar,Tue,0,Bauchi,Yelwa,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2017,Jan,Tue,0,Borno,Kubuwa,Armed Assault,Police,Nigeria,Firearms
+2018,Apr,Sat,0,Taraba,Mayo Lope,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jan,Mon,0,Kano,Kano,Bombing/Explosion,Unknown,Nigeria,Explosives
+2019,Feb,Sat,0,Rivers,Asarama,Assassination,Private Citizens & Property,Nigeria,Firearms
+2018,Jul,Wed,0,Plateau,Bachit,Assassination,Religious Figures/Institutions,Nigeria,Firearms
+2012,Feb,Tue,0,Borno,Ali Kotoko,Facility/Infrastructure Attack,Educational Institution,Nigeria,Incendiary
+2015,Dec,Tue,0,Borno,Mada,Unknown,Military,Nigeria,Unknown
+1994,Feb,Wed,0,Abuja,Abuja,Bombing/Explosion,Government (General),Nigeria,Explosives
+2012,Oct,Sun,0,Plateau,Heipang,Armed Assault,Police,Nigeria,Firearms
+2016,Aug,Wed,0,Borno,Pulka,Armed Assault,Military,Nigeria,Firearms
+2019,Jun,Sun,0,Borno,Mandarari,Bombing/Explosion,Business,Nigeria,Explosives
+2009,Dec,Mon,0,Lagos,Lagos,Bombing/Explosion,Maritime,Nigeria,Explosives
+2015,Sep,Thu,0,Rivers,Obrikom,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Dec,Sun,0,Benue,Nagu,Armed Assault,Government (General),Nigeria,Firearms
+2015,Jul,Wed,1,Borno,Kukawa district,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2015,Sep,Tue,0,Borno,Askira Uba,Unknown,Private Citizens & Property,Nigeria,Unknown
+2021,Mar,Fri,0,Benue,Udam,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,Feb,Tue,0,Borno,Maiduguri,Facility/Infrastructure Attack,Business,Nigeria,Incendiary
+2012,Feb,Tue,0,Kaduna,Pingiriga,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Mar,Tue,0,Kaduna,Kaduna,Bombing/Explosion,Educational Institution,Nigeria,Explosives
+2021,Mar,Sun,0,Borno,Khadamari,Facility/Infrastructure Attack,Private Citizens & Property,Nigeria,Unknown
+2015,Nov,Sun,0,Borno,Kardewa,Unknown,Military,Nigeria,Unknown
+2014,Mar,Mon,1,Bauchi,Zalau,Hostage Taking (Kidnapping),Government (General),Nigeria,Firearms
+2015,Apr,Wed,0,Borno,Maduwari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Feb,Thu,0,Adamawa,Gaya,Armed Assault,Private Citizens & Property,Nigeria,Incendiary
+2020,Feb,Fri,0,Delta,Agadama,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jan,Thu,1,Niger,Ungwan Makama,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2019,Mar,Wed,0,Enugu,Olo,Armed Assault,Government (General),Nigeria,Firearms
+2019,Apr,Tue,0,Adamawa,Gulak,Unknown,Private Citizens & Property,Nigeria,Unknown
+2012,Nov,Sun,0,Kaduna,Rigyasa,Armed Assault,Military,Nigeria,Firearms
+2015,Aug,Thu,0,Borno,Huyum,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Dec,Mon,1,Borno,Madari,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2015,Oct,Sat,0,Adamawa,Dar,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2019,Nov,Tue,0,Plateau,Mangu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Sep,Thu,0,Bayelsa,Unknown,Armed Assault,Business,Nigeria,Firearms
+2016,Dec,Mon,0,Borno,Maiduguri,Bombing/Explosion,Government (General),Nigeria,Explosives
+2021,Nov,Fri,1,Borno,Maiduguri,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2018,Jul,Fri,0,Borno,Mairari,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jun,Sun,0,Borno,Mainok,Bombing/Explosion,Military,Nigeria,Explosives
+2020,May,Wed,1,Kaduna,Magunguna,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,May,Thu,0,Borno,Maiduguri,Armed Assault,Police,Nigeria,Firearms
+2014,Feb,Thu,0,Adamawa,Kirchiga,Armed Assault,Private Citizens & Property,Nigeria,Explosives
+2018,Apr,Wed,0,Benue,Tse-Ali Agudu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2007,May,Tue,1,Delta,Warri,Hostage Taking (Kidnapping),Private Citizens & Property,Lebanon,Firearms
+2014,Aug,Thu,0,Borno,Jibwhiwhui,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Apr,Thu,1,Lagos,Oko-Asagun,Hostage Taking (Kidnapping),Police,Nigeria,Firearms
+1991,Mar,Thu,0,Katsina,Unknown,Facility/Infrastructure Attack,Journalists & Media,Nigeria,Incendiary
+2015,Apr,Thu,0,Borno,Mungle,Unknown,Military,Nigeria,Unknown
+2018,Feb,Thu,1,Benue,Tomatar,Armed Assault,Government (General),Nigeria,Firearms
+2021,May,Mon,0,Imo,Omuma,Armed Assault,Police,Nigeria,Explosives
+2018,Apr,Sun,0,Nasarawa,Bakin Kortaa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Feb,Sun,0,Borno,Yazza,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jan,Wed,0,Plateau,Riyom,Armed Assault,Police,Nigeria,Firearms
+2014,May,Mon,1,Borno,Warabe,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2015,Aug,Sat,0,Bayelsa,Ogbolomabiri,Armed Assault,Military,Nigeria,Firearms
+2021,Apr,Thu,0,Nasarawa,Tse Tor,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jan,Sun,0,Borno,Konduga,Unknown,Private Citizens & Property,Nigeria,Unknown
+2015,Sep,Tue,1,Borno,Nwajurko,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2018,Dec,Fri,0,Ekiti,Ado-Ekiti,Assassination,Government (General),Nigeria,Firearms
+2021,Feb,Sun,1,Niger,Yakila,Hostage Taking (Kidnapping),Transportation,Nigeria,Explosives
+2010,Sep,Thu,1,Rivers,Omumah,Hostage Taking (Kidnapping),Government (General),Nigeria,Unknown
+2015,Jul,Wed,0,Lagos,Lagos,Assassination,Private Citizens & Property,Nigeria,Firearms
+2014,Jun,Thu,0,Adamawa,Shuwa,Armed Assault,Private Citizens & Property,Nigeria,Incendiary
+2014,Jul,Tue,0,Plateau,Rakung,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2013,May,Wed,0,Borno,Maiduguri,Assassination,Religious Figures/Institutions,Nigeria,Firearms
+2015,Jun,Fri,0,Borno,Ngulde,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2018,Jan,Wed,0,Taraba,Danwaza,Unknown,Private Citizens & Property,Nigeria,Unknown
+2016,Jun,Thu,0,Lagos,Ikorodu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,May,Mon,0,Benue,Atongo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Aug,Tue,0,Plateau,Abonong,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2014,Jul,Wed,1,Borno,Gamboru,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2021,Apr,Tue,0,Enugu,Ibegwa-Ani,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2014,Jan,Tue,0,Borno,Maiduguri,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2021,Apr,Fri,0,Benue,Tse Nyarei,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Oct,Mon,0,Ekiti,Ado-Ekiti,Assassination,Private Citizens & Property,Nigeria,Firearms
+2014,Apr,Mon,0,Bayelsa,Yenagoa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Jul,Mon,0,Borno,Njimtilo,Bombing/Explosion,Transportation,Nigeria,Explosives
+2021,Mar,Mon,1,Kwara,Pampo,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2013,Nov,Fri,1,Imo,Owerri,Assassination,Government (General),Nigeria,Firearms
+2021,Jun,Sun,0,Imo,Nnepi,Facility/Infrastructure Attack,Government (General),Nigeria,Firearms
+2013,Nov,Mon,1,Borno,Lassa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2016,May,Sun,0,Borno,Biu,Bombing/Explosion,Military,Nigeria,Explosives
+2015,Mar,Sat,0,Gombe,Nafada,Unknown,Government (General),Nigeria,Unknown
+2014,Aug,Sat,0,Borno,Marte,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Feb,Fri,0,Borno,Dikwa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jan,Sun,0,Borno,Maiduguri,Armed Assault,Government (General),Nigeria,Firearms
+2013,Jan,Mon,0,Yobe,Ngelzarma,Bombing/Explosion,Military,Nigeria,Explosives
+2020,Feb,Thu,0,Borno,Mamuri Gana,Bombing/Explosion,Unknown,Nigeria,Explosives
+2020,Dec,Thu,1,Borno,Gamboru,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2017,May,Wed,0,Rivers,Otobie,Armed Assault,Government (General),Nigeria,Firearms
+2014,Apr,Fri,0,Gombe,Nafada,Armed Assault,Police,Nigeria,Explosives
+2018,Feb,Fri,0,Borno,Konduga,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2017,Jun,Sun,0,Borno,Dalori,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2012,Jul,Mon,0,Kano,Kano,Armed Assault,Religious Figures/Institutions,Nigeria,Firearms
+2018,May,Tue,0,Benue,Unknown,Unknown,Private Citizens & Property,Nigeria,Unknown
+2019,Aug,Sun,0,Borno,Unknown,Armed Assault,Military,Nigeria,Firearms
+2015,Jul,Wed,1,Yobe,Bujimirum,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2021,Jan,Sat,0,Ogun,Igua,Assassination,Private Citizens & Property,Nigeria,Firearms
+2013,Feb,Sun,0,Enugu,Amorji Nike,Armed Assault,Police,Nigeria,Firearms
+2017,Aug,Wed,0,Adamawa,Bitu,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2015,Mar,Sat,0,Yobe,Ngalda,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2017,Jan,Sat,0,Borno,Unknown,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jul,Thu,0,Borno,Tashan Alade,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2016,Dec,Fri,1,Borno,Kachifa,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2014,Oct,Fri,0,Borno,Maikadiri,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Aug,Thu,0,Bauchi,Wunti Dada,Armed Assault,Military,Nigeria,Firearms
+2014,Apr,Sat,0,Yobe,Damaturu,Bombing/Explosion,Police,Nigeria,Explosives
+2014,Apr,Tue,1,Taraba,Wukari district,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2011,Jun,Thu,0,Abuja,Abuja,Bombing/Explosion,Police,Nigeria,Explosives
+2017,Sep,Sun,0,Borno,Maiduguri,Unknown,Military,Nigeria,Unknown
+2018,Mar,Fri,0,Borno,Azare,Bombing/Explosion,Military,Nigeria,Explosives
+2013,Jan,Wed,0,Plateau,Kuru,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2020,Jun,Sat,0,Borno,Monguno,Armed Assault,Business,Nigeria,Explosives
+2018,Mar,Thu,0,Taraba,Kurmi district,Unknown,Private Citizens & Property,Nigeria,Unknown
+2012,Feb,Sun,0,Borno,Ngala,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2014,May,Mon,0,Borno,Walama,Assassination,Government (General),Nigeria,Firearms
+2012,Jun,Mon,0,Yobe,Damaturu,Bombing/Explosion,Police,Nigeria,Explosives
+2015,Mar,Sat,0,Rivers,Port Harcourt,Armed Assault,Military,Nigeria,Firearms
+2016,Jan,Fri,0,Kaduna,Godogodo,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2019,Sep,Fri,1,Ondo,Akure North district,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2019,Apr,Tue,0,Plateau,Vatt,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,May,Tue,0,Kaduna,Kaduna,Bombing/Explosion,Unknown,Nigeria,Explosives
+2012,Jan,Tue,0,Plateau,Jos,Bombing/Explosion,Private Citizens & Property,Nigeria,Explosives
+2020,Jan,Tue,1,Unknown,Unknown,Hostage Taking (Kidnapping),Private Citizens & Property,Nigeria,Firearms
+2011,Dec,Sun,0,Plateau,Jos,Bombing/Explosion,Unknown,Nigeria,Explosives
+2012,Apr,Mon,0,Taraba,Jalango,Bombing/Explosion,Police,Nigeria,Explosives
+2020,Jun,Sat,1,Borno,Dogon Waye,Armed Assault,Military,Nigeria,Explosives
+2012,Jun,Sun,0,Borno,Konduga,Bombing/Explosion,Government (General),Nigeria,Explosives
+2015,Apr,Sun,0,Nasarawa,Iornungun,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2012,Jan,Fri,0,Kano,Tula,Bombing/Explosion,Unknown,Nigeria,Explosives
+2017,Nov,Mon,0,Adamawa,Kodomti,Armed Assault,Private Citizens & Property,Nigeria,Incendiary
+2017,Dec,Sat,0,Borno,Mafa,Unknown,Private Citizens & Property,Nigeria,Unknown
+2011,Apr,Sat,0,Kaduna,Kaduna,Bombing/Explosion,Business,Nigeria,Explosives
+2018,Sep,Mon,0,Plateau,Laake,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2014,Jul,Sat,1,Borno,Sigal,Hostage Taking (Kidnapping),Police,Nigeria,Firearms
+2014,Dec,Wed,0,Borno,Pulka,Armed Assault,Religious Figures/Institutions,Nigeria,Incendiary
+2017,Mar,Sun,0,Borno,Maiduguri,Bombing/Explosion,Military,Nigeria,Explosives
+2013,Oct,Sun,0,Borno,Pulka,Unknown,Private Citizens & Property,Nigeria,Unknown
+2019,Mar,Wed,0,Adamawa,Hantsa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2018,Nov,Wed,0,Borno,Mammanti,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+2021,Sep,Sun,0,Abia,Bende district,Armed Assault,Police,Nigeria,Firearms
+2020,May,Mon,0,Borno,Tarfa,Armed Assault,Private Citizens & Property,Nigeria,Firearms
+1992,Feb,Wed,0,Akwa Ibom,Utan Brama,Armed Assault,Private Citizens & Property,Nigeria,Incendiary
+2012,Oct,Sun,0,Kaduna,Malali,Bombing/Explosion,Religious Figures/Institutions,Nigeria,Explosives
+2018,May,Wed,0,Adamawa,Kafin-Hausa,Armed Assault,Terrorists/Non-State Militia,Nigeria,Firearms
+2007,Dec,Tue,0,Akwa Ibom,Ibeno,Facility/Infrastructure Attack,Business,Nigeria,Firearms
+2012,Oct,Mon,0,Yobe,Potiskum,Facility/Infrastructure Attack,Government (General),Nigeria,Incendiary
+2012,Apr,Thu,0,Gombe,Gombe,Bombing/Explosion,Educational Institution,Nigeria,Explosives
