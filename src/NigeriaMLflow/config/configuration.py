@@ -77,7 +77,8 @@ class ConfigurationManager:
             model_name = config.model_name,
             transformer_name = config.transformer_name,
             target_name = config.target_name,
-            n_estimators =params.n_estimators,
+            n_estimators=params.n_estimators,
+            scale_pos_weight= params.scale_pos_weight,
             target_column = schema.name
             
         )

@@ -16,4 +16,5 @@ streamlit
 xgboost
 pygwalker
 imblearn
+plotly-express
 -e .

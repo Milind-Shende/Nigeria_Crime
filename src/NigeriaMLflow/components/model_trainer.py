@@ -7,6 +7,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, RobustScaler,MinMaxScaler,StandardScaler,LabelEncoder
 from sklearn.compose import ColumnTransformer
 from xgboost import XGBClassifier
+from sklearn.multioutput import ClassifierChain
 
 
 
@@ -24,20 +25,16 @@ class ModelTrainer:
         train_y = train_data[self.config.target_column]
         test_y = test_data[self.config.target_column]
 
-        numeric_features=['year',
-                        'extended']
+        numeric_features=['multilingual_literacy', 'literacy', 'university_admission',
+       'sanitation', 'electricity', 'state_unemployment', 'avg_household_size',
+       'region_population_size', 'drinking_water', 'month', 'day',
+       'isweekday', 'is_holiday']
 
-        categorical_features =['month',
-                                'day',
-                                'state',
-                                'city',
-                                'target_type',
-                                'nationality',
-                                'weapon_type']
+        categorical_features =['State']
 
         # Numerical and Categorical Pipeline Transformation
         logger.info("Numerical and Categorical Pipeline Transformation")
-        numeric_transformer = Pipeline(steps=[('RobustScaler', RobustScaler())])
+        numeric_transformer = Pipeline(steps=[('Scaler', MinMaxScaler())])
         categorical_transformer = Pipeline(steps=[('onehot', OneHotEncoder(sparse=True, handle_unknown='ignore'))])
 
         # Numerical and Categorical Column Transformation
@@ -52,12 +49,15 @@ class ModelTrainer:
         target_scaler=LabelEncoder()
         train_y=target_scaler.fit_transform(train_y)
         test_y=target_scaler.fit_transform(test_y)
+
+        
         
 
        
 
         logger.info("define Xgboost Classification")
-        xgb_model = XGBClassifier(n_estimators=self.config.n_estimators)
+        xgb_model = XGBClassifier(n_estimators=self.config.n_estimators,
+                                  scale_pos_weight=self.config.scale_pos_weight)
 
         logger.info("fit train_x and train_y")
         xgb_model.fit(train_x, train_y)

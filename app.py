@@ -10,84 +10,63 @@ import streamlit.components.v1 as components
 import streamlit.components.v1 as stc 
 import streamlit as st
 from scipy.sparse import issparse
+import xgboost as xgb
+import pandas as pd
 
 ROOT_DIR = os.getcwd()
 SAVED_DIR_PATH = "artifacts"
 SAVED_MODEL_FOLDER="model_trainer"
-MODEL_FILE_NAME = "model.joblib"
+MODEL_FILE_NAME = "model_file.model"
 TRANSFORMER_FILE_NAME="transformer.joblib"
 # TARGET_ENCODER_FILE_DIR="target_encoder"
 # TARGET_ENCODER_FILE_NAME="target_encoder.pkl"
 
-MODEL_DIR = os.path.join(ROOT_DIR, SAVED_DIR_PATH,SAVED_MODEL_FOLDER,MODEL_FILE_NAME)
+MODEL_DIR = os.path.join(ROOT_DIR,MODEL_FILE_NAME)
 # print("MODEL_PATH:-",MODEL_DIR)
 
-TRANSFORMER_DIR= os.path.join(ROOT_DIR, SAVED_DIR_PATH,SAVED_MODEL_FOLDER,TRANSFORMER_FILE_NAME)
+TRANSFORMER_DIR= os.path.join(ROOT_DIR,SAVED_DIR_PATH,SAVED_MODEL_FOLDER,TRANSFORMER_FILE_NAME)
 # print("TRANSFORMER_PATH:-",TRANSFORMER_DIR)
 
 # TARGET_ENCODER_DIR= os.path.join(ROOT_DIR, SAVED_DIR_PATH,SAVED_ZERO_FILE,TARGET_ENCODER_FILE_DIR,TARGET_ENCODER_FILE_NAME)
 # print("TARGET_ENCODER_PATH:-",TARGET_ENCODER_DIR)
 
 # Load the Model.pkl, Transformer.pkl and Target.pkl
-model=joblib.load(open(MODEL_DIR,"rb"))
+# model=joblib.load(open(MODEL_DIR,"rb"))
+# Load the saved model
+loaded_model = xgb.Booster(model_file=MODEL_DIR)
 # print(model)
 transfomer=joblib.load(open(TRANSFORMER_DIR,"rb"))
 # print(transfomer)
 
 # Adjust the width of the Streamlit page
-st.set_page_config(
-    page_title="Visualisation of Crime in Nigeria",
-    layout="wide")
+st.set_page_config(page_title="Nigeria_Crime!!!", page_icon=":bar_chart:",layout="wide")
 
 # About page
 def about_page():
     st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
     st.write('The problem this project is targeted to solve is to help the security agencies to mitigate the rate of crime committed in the country by giving the security agencies reasonable insight into the distribution of crime committed in Nigeria, and also enable them to anticipate possible crime and location of the crime, in order to be able to make adequate security checks and take the necessary security measures.')
     
-
-def load_data(data_file):
-    if data_file is not None:
-        df = pd.read_csv(data_file)
-        return df
-    return None
-
-def visualization_page():
-    df=pd.read_csv("terrorism_cleaned.csv")
-    
-    # Add Title
-    st.title("Visualisation of Crime in Nigeria")
-    st.markdown('<style>div.block-container{padding-top:1rem;}</style>',unsafe_allow_html=True)
-    # Generate the HTML using Pygwalker
-    pyg_html = pyg.walk(df, return_html=True)
-    # Embed the HTML into the Streamlit app
-    components.html(pyg_html, height=1000, scrolling=True)
-
-Target_labels = ['Assassination', 'Unknown', 'Facility/Infrastructure Attack',
-                'Unarmed Assault', 'Armed Assault', 'Bombing/Explosion',
-                'Hostage Taking (Kidnapping)',
-                'Hostage Taking (Barricade Incident)', 'Hijacking']
     
 # Main prediction page
 def prediction_page():
     # Title and input fields
     st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
     st.subheader('Information')
-    year = st.selectbox('Year',('1976', '1980', '1983', '1988', '1991', '1992', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021'))
-    month = st.selectbox('Month', ('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'))
-    day = st.selectbox('Day', ('Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'))
-    extended = st.selectbox('Extended', ('0', '1'))
-    state = st.text_input('State')
-    city = st.text_input('City')
-    target_type = st.selectbox('Target Type',('Government (General)', 'Government (Diplomatic)',
-                                'Educational Institution', 'Journalists & Media',
-                                'Private Citizens & Property', 'Police',
-                                'Religious Figures/Institutions', 'Business', 'Maritime',
-                                'Military', 'Unknown', 'Transportation', 'Utilities',
-                                'Violent Political Party', 'Airports & Aircraft',
-                                'Telecommunication', 'NGO', 'Other',
-                                'Terrorists/Non-State Militia'))
-    nationality = st.text_input('Nationality')
-    weapon_type =st.selectbox('Weapon Type',('Firearms', 'Unknown', 'Incendiary', 'Melee', 'Explosives','Chemical', 'Sabotage Equipment'))
+    State = st.text_input('State')
+    multilingual_literacy = st.text_input('multilingual_literacy')
+    literacy = st.text_input('literacy')
+    university_admission = st.text_input('university_admission')
+    sanitation = st.text_input('sanitation')
+    electricity = st.text_input('electricity')
+    state_unemployment = st.text_input('state_unemployment')
+    avg_household_size = st.text_input('avg_household_size')
+    region_population_size =st.text_input('region_population_size')
+    drinking_water =st.text_input('drinking_water')
+    month =st.text_input('month')
+    day =st.text_input('day')
+    isweekday =st.text_input('isweekday')
+    is_holiday =st.text_input('is_holiday')
+
     
     
 
@@ -96,15 +75,20 @@ def prediction_page():
         # Preprocess the input features
         try:
             input_data = {
-                            'year': [year],
-                            'month': [month],
-                            'day': [day],
-                            'extended': [extended],
-                            'state': [state],
-                            'city': [city],
-                            'target_type': [target_type],
-                            'nationality': [nationality],
-                            'weapon_type': [weapon_type],
+                            'State': [State],
+                            'multilingual_literacy': [multilingual_literacy],
+                            'literacy': [literacy],
+                            'university_admission': [university_admission],
+                            'sanitation': [sanitation],
+                            'electricity': [electricity],
+                            'state_unemployment': [state_unemployment],
+                            'avg_household_size': [avg_household_size],
+                            'region_population_size': [region_population_size],
+                            'drinking_water':[drinking_water],
+                            'month':[month],
+                            'day':[day],
+                            'isweekday':[isweekday],
+                            'is_holiday':[is_holiday]
                         }
             
             # Convert input data to a Pandas DataFrame
@@ -119,11 +103,16 @@ def prediction_page():
             else:
                 input_arr = np.array(transformed_data)
 
+            # Convert input array to a DMatrix
+            dmatrix = xgb.DMatrix(input_arr)
+
             # Make the prediction using the loaded model
-            predicted_index = model.predict(input_arr)[0]
-            predicted_attack_type = Target_labels[predicted_index]
+            predicted_prob = loaded_model.predict(dmatrix)
+            predicted_class = 1 if predicted_prob >= 0.5 else 0
+
             st.subheader('Prediction')
-            st.write(f'The predicted attack type is: {predicted_attack_type}')
+            prediction_text = "YES" if predicted_class == 1 else "NO"
+            st.write(f'The predicted class is: {prediction_text}')
                 
         except Exception as e:
         # error message if an exception occurs
@@ -132,16 +121,40 @@ def prediction_page():
 # Teams page
 def collaborators_page():
     st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
+    st.write("I'm writing to express my heartfelt appreciation for each one of you who have contributed to our project,\"Predicting Terrorism & Analyzing Crime in Nigeria with ML\".Your dedication, expertise,and hard work have been pivotal in bringing this project to fruition,even while we're physically separated by distance.Your valuable insights and unwavering commitment have made a lasting impact, and I'm truly inspired by our collective achievements.I'm truly grateful to work with such a talented and dedicated group of collaborators.")
+    st.write("Warm regards,")
+
     st.write('Meet our awesome team members:')
-    st.write('- Team Member 1')
-    st.write('- Team Member 2')
-    st.write('- Team Member 3')
+    st.write('-Umesh')
+    st.write("-Milind Shende")
+    st.write('-Miho Rosenberg')
+    st.write('-Abomaye Eniatorudabo')
+    st.write('-Robson Serafim')
+    st.write('-Indrajith')
+    st.write('-Anjali Dashora')
+    st.write('-Samuel David Egwu')
+    st.write('-Devyash Jain')
+    st.write('-Danish Mehmood')
+    st.write('-Devyash Jain')
+    st.write('-Walid hossain')
+    st.write('-Samson Oni')
+    st.write('-Shivanshi Arora')
+    st.write('-Shreya chawla')
+    st.write('-Oluchukwu')
+    st.write('-Ololade Ogunleye')
+    st.write('-Hannah Marie Pacis')
+    st.write('-Nofisat Hamod')
+    st.write('-Richard oveh')
+    st.write('-Touib Ogunremi')
+    st.write('-Sulagna Parida')
+    st.write('-Vishnu Pandey')
+
+
     # Add more team members as needed
 
 # Create a dictionary with page names and their corresponding functions
 pages = {
     'About': about_page,
-    'Visualization ':visualization_page, 
     'Prediction': prediction_page,
     'Collaborators': collaborators_page,
 }

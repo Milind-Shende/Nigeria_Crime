@@ -1,15 +1,19 @@
 COLUMNS:
 
-  year: int64  
-  month: object 
-  day: object 
-  extended: int64  
-  state: object 
-  city:  object
-  target_type: object
-  nationality: object 
-  weapon_type: object 
-
+  State: object 
+  multilingual_literacy: float64
+  literacy: float64 
+  university_admission: float64 
+  sanitation: float64
+  electricity: float64
+  state_unemployment: float64
+  avg_household_size: float64
+  region_population_size: float64
+  drinking_water: float64
+  month: int64  
+  day: int64  
+  isweekday: int64  
+  is_holiday: int64   
 TARGET_COLUMN:
 
-  name: attack_type
+  name: is_attack
