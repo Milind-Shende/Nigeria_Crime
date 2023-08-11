@@ -51,7 +51,7 @@ def about_page():
 def prediction_page():
     # Title and input fields
     st.title('Predicting Terrorism & Analyzing Crime in Nigeria with ML')
-    st.subheader('Information')
+    st.subheader(':clipboard: Information')
     State = st.text_input('State')
     multilingual_literacy = st.text_input('multilingual_literacy')
     literacy = st.text_input('literacy')
