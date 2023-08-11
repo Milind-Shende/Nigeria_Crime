@@ -124,7 +124,7 @@ def collaborators_page():
     st.write("I'm writing to express my heartfelt appreciation for each one of you who have contributed to our project,\"Predicting Terrorism & Analyzing Crime in Nigeria with ML\".Your dedication, expertise,and hard work have been pivotal in bringing this project to fruition,even while we're physically separated by distance.Your valuable insights and unwavering commitment have made a lasting impact, and I'm truly inspired by our collective achievements.I'm truly grateful to work with such a talented and dedicated group of collaborators.")
     st.write("Warm regards,")
 
-    st.write('Meet our awesome team members:')
+    st.write(':male-scientist: Meet our awesome team members:')
     st.write('-Umesh')
     st.write("-Milind Shende")
     st.write('-Miho Rosenberg')
