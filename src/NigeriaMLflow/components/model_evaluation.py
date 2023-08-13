@@ -11,6 +11,7 @@ from NigeriaMLflow.utils.common import save_json
 from pathlib import Path
 from NigeriaMLflow import logger
 from imblearn.over_sampling import SMOTE
+import xgboost as xgb
 
 
 class ModelEvaluation:
@@ -31,7 +32,8 @@ class ModelEvaluation:
 
         train_data = pd.read_csv(self.config.train_data_path)
         test_data = pd.read_csv(self.config.test_data_path)
-        model = joblib.load(self.config.model_path)
+        loaded_model_xgb = xgb.Booster()
+        loaded_model_xgb.load_model(self.config.model_path)
         transformer = joblib.load(self.config.transformer_path)
         target = joblib.load(self.config.target_path)
 
@@ -61,19 +63,22 @@ class ModelEvaluation:
 
         with mlflow.start_run():
 
-            predicted_qualities_train = model.predict(X_train_fea)
+            Xdtrain = xgb.DMatrix(X_train_fea)
+            predicted_qualities_train = loaded_model_xgb.predict(Xdtrain)
+            predicted_labels_train = (predicted_qualities_train > 0.5).astype(int)
 
-            (f1_train,recall_train, precision_train,accu_score_train) = self.eval_metrics(y_train_fea, predicted_qualities_train)
+
+            (f1_train,recall_train, precision_train,accu_score_train) = self.eval_metrics(y_train_fea, predicted_labels_train)
             
             # Saving metrics as local
             scores_train = {"f1_train":f1_train,"recall_train": recall_train, "precision_train": precision_train, 'accu_score_train':accu_score_train}
             save_json(path=Path(self.config.metric_file_name_train), data=scores_train)
 
 
-
-            predicted_qualities_test = model.predict(X_test_fea)
-
-            (f1_test,recall_test, precision_test,accu_score_test) = self.eval_metrics(y_test_fea, predicted_qualities_test)
+            Xdtest = xgb.DMatrix(X_test_fea)
+            predicted_qualities_test = loaded_model_xgb.predict(Xdtest)
+            predicted_labels_test = (predicted_qualities_test > 0.5).astype(int)
+            (f1_test,recall_test, precision_test,accu_score_test) = self.eval_metrics(y_test_fea, predicted_labels_test)
             
             # Saving metrics as local
             scores_test = {"f1_test":f1_test,"recall_test": recall_test, "precision_test": precision_test,'accu_score_test':accu_score_test}
@@ -103,8 +108,8 @@ class ModelEvaluation:
                 # There are other ways to use the Model Registry, which depends on the use case,
                 # please refer to the doc for more information:
                 # https://mlflow.org/docs/latest/model-registry.html#api-workflow
-                mlflow.xgboost.log_model(model, "model", registered_model_name="xgboostModel")
+                mlflow.xgboost.log_model(loaded_model_xgb, "model", registered_model_name="xgboostModel")
             else:
-                mlflow.xgboost.log_model(model, "model")
+                mlflow.xgboost.log_model(loaded_model_xgb, "model")
 
     

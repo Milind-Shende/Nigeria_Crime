@@ -63,7 +63,8 @@ class ModelTrainer:
         xgb_model.fit(train_x, train_y)
 
         logger.info("Creating a model pickle file")
-        joblib.dump(xgb_model, os.path.join(self.config.root_dir, self.config.model_name))
+        # joblib.dump(xgb_model, os.path.join(self.config.root_dir, self.config.model_name))
+        xgb_model.save_model(os.path.join(self.config.root_dir, self.config.model_name))
         logger.info("Creating a transformer pickle file")
         joblib.dump(transformer, os.path.join(self.config.root_dir, self.config.transformer_name))
         logger.info("Creating a target pickle file")
