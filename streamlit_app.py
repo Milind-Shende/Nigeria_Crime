@@ -55,8 +55,8 @@ def about_page():
     st.write('The problem this project is targeted to solve is to help the security agencies to mitigate the rate of crime committed in the country by giving the security agencies reasonable insight into the distribution of crime committed in Nigeria, and also enable them to anticipate possible crime and location of the crime, in order to be able to make adequate security checks and take the necessary security measures.')
 
 def visualization_page():
-    visualization_image = Image.open("D:/Project/Project_Nigeria_crime/Nigeria_Crime/Screenshot.png")
-    st.image(visualization_image, use_column_width=True)
+    visualization_image_url = "https://github.com/Milind-Shende/Nigeria_Crime/raw/main/Screenshot.png"
+    st.image(visualization_image_url, use_column_width=True)
 
 def fetch_multilingual_literacy(state, selected_date):
     return round(random.uniform(32.78, 79.58), 4)
@@ -272,9 +272,9 @@ def collaborators_page():
 
 def nigeria_image():
     # Load and display the Nigerian flag image
-    nigerian_flag_image = Image.open("D:/Project/Project_Nigeria_crime/Nigeria_Crime/Nigeria_flag_map.png")
+    nigerian_flag_image_url = "https://github.com/Milind-Shende/Nigeria_Crime/raw/main/Nigeria_flag_map.png"
     image_width = 150
-    st.sidebar.image(nigerian_flag_image, width=image_width)
+    st.sidebar.image(nigerian_flag_image_url, width=image_width)
 
 
 def tools_section():
