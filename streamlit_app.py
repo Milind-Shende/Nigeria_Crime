@@ -272,8 +272,8 @@ def collaborators_page():
 
 def nigeria_image():
     # Load and display the Nigerian flag image
-    nigerian_flag_image_url = "https://github.com/Milind-Shende/Nigeria_Crime/raw/main/Nigeria_flag_map.png"
-    image_width = 150
+    nigerian_flag_image_url = "https://github.com/Milind-Shende/Nigeria_Crime/blob/main/omdena-nigeria.png"
+    image_width = 200
     st.sidebar.image(nigerian_flag_image_url, width=image_width)
 
 
