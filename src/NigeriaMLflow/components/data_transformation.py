@@ -29,8 +29,9 @@ class DataTransformation:
         # Append the 'attack_type' column back at the end
         data['is_attack'] = attack_type_column
 
+        logger.info(f"Checking unique value for is_attack{data['is_attack'].value_counts()}")
+        data['is_attack'].value_counts()
 
-        
         # Split the data into training and test sets. (0.80, 0.20) split.
         logger.info("Split the data into training and test sets. (0.80, 0.20) split")
         train, test = train_test_split(data,test_size=.20,random_state=42)
