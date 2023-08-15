@@ -32,6 +32,10 @@ class DataTransformation:
         logger.info(f"Checking unique value for is_attack{data['is_attack'].value_counts()}")
         data['is_attack'].value_counts()
 
+        
+        # data.rename(columns={'State':'state'},inplace=True)
+        # logger.info(f"Checking data columns name {data.columns}")
+
         # Split the data into training and test sets. (0.80, 0.20) split.
         logger.info("Split the data into training and test sets. (0.80, 0.20) split")
         train, test = train_test_split(data,test_size=.20,random_state=42)

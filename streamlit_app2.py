@@ -16,8 +16,11 @@ from datetime import datetime
 import random
 from PIL import Image
 
+data_url = 'https://github.com/Milind-Shende/Nigeria_Crime/raw/main/socio_model_prediction.csv'
+real_data = pd.read_csv(data_url)
 
-real_data=pd.read_csv('D:/Project/Project_Nigeria_crime/Nigeria_Crime/socio_model_prediction.csv')
+
+
 ROOT_DIR = os.getcwd()
 SAVED_DIR_PATH = "artifacts"
 SAVED_MODEL_FOLDER="model_trainer"
@@ -311,8 +314,8 @@ def collaborators_page():
 
 def nigeria_image():
     # Load and display the Nigerian flag image
-    nigerian_flag_image_url = "https://github.com/Milind-Shende/Nigeria_Crime/blob/main/omdena-nigeria.png"
-    image_width = 200
+    nigerian_flag_image_url = "https://raw.githubusercontent.com/Milind-Shende/Nigeria_Crime/main/omdena-nigeria.png"
+    image_width = 150
     st.sidebar.image(nigerian_flag_image_url, width=image_width)
 
 
